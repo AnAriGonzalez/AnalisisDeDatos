@@ -1,585 +1,585 @@
-Código,Familia,Materia,Analfabeta,Básica,Media,Superior ,Sin información,sexo
-101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,1,25,76,6,2,Hombres
-202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,0,16,54,2,15,Hombres
-203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,0,1,7,1,0,Hombres
-204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,11,358,1242,93,163,Hombres
-205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",0,0,1,0,0,Hombres
-207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",0,8,29,0,0,Hombres
-216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",0,6,35,2,3,Hombres
-221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,0,0,3,2,0,Hombres
-225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,0,0,1,0,0,Hombres
-229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",0,1,0,0,0,Hombres
-231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,0,0,16,4,0,Hombres
-235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,0,0,2,0,0,Hombres
-236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,0,2,8,0,0,Hombres
-237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,0,9,34,2,9,Hombres
-248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,0,0,4,0,0,Hombres
-301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,0,2,5,1,0,Hombres
-302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,2,206,1507,168,182,Hombres
-303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,0,1,29,5,0,Hombres
-306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",0,2,2,0,0,Hombres
-308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,0,0,3,1,0,Hombres
-309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,1,125,470,13,69,Hombres
-310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,0,0,12,2,0,Hombres
-312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",0,0,2,1,3,Hombres
-399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",0,0,1,1,0,Hombres
-410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,0,0,8,1,3,Hombres
-411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,1,14,97,6,11,Hombres
-416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,0,0,0,1,0,Hombres
-420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,0,0,3,0,0,Hombres
-499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,0,0,3,0,0,Hombres
-501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,1,130,545,37,54,Hombres
-502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,0,0,13,0,0,Hombres
-503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,0,1,52,6,6,Hombres
-505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",0,8,76,6,0,Hombres
-509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,0,34,88,13,1,Hombres
-510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,0,3,13,2,2,Hombres
-512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,0,0,9,0,0,Hombres
-514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,0,0,0,0,0,Hombres
-515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,1,92,535,38,45,Hombres
-516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,1,38,287,23,31,Hombres
-518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,6,585,2469,46,326,Hombres
-519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",0,0,5,2,0,Hombres
-523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,0,0,0,0,0,Hombres
-524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,41,2825,11009,1046,1415,Hombres
-525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,13,785,2877,219,365,Hombres
-526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),0,1,16,0,2,Hombres
-527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),0,4,21,0,4,Hombres
-530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,0,11,25,2,8,Hombres
-531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,0,3,16,0,1,Hombres
-532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,0,1,17,2,1,Hombres
-533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,0,2,22,2,3,Hombres
-535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,0,1,1,0,0,Hombres
-599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,0,0,14,1,3,Hombres
-602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,0,0,0,0,0,Hombres
-604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,0,0,1,0,0,Hombres
-605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,0,0,1,0,0,Hombres
-608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,0,1,6,2,0,Hombres
-610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,0,0,1,1,0,Hombres
-615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,0,5,24,1,5,Hombres
-619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,1,10,31,6,1,Hombres
-620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,0,12,35,3,5,Hombres
-621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,0,12,40,1,3,Hombres
-623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,3,62,147,18,21,Hombres
-624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,0,0,0,0,0,Hombres
-625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,0,0,1,0,0,Hombres
-629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,0,0,1,0,0,Hombres
-631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,0,1,6,1,0,Hombres
-633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),0,1,3,0,0,Hombres
-634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,0,5,16,0,0,Hombres
-635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),0,13,33,10,9,Hombres
-637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,0,32,143,25,23,Hombres
-638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",0,0,17,3,0,Hombres
-639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,9,106,385,90,43,Hombres
-640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,2,34,79,12,18,Hombres
-649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,0,0,1,0,0,Hombres
-699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",0,1,4,2,2,Hombres
-701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,0,0,5,0,0,Hombres
-702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,0,32,78,4,12,Hombres
-703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,0,4,17,0,7,Hombres
-705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,0,2,18,0,7,Hombres
-706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,0,0,1,0,1,Hombres
-707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,0,0,0,0,0,Hombres
-709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,1,399,1362,143,120,Hombres
-710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,8,468,2387,305,226,Hombres
-717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,0,9,49,1,3,Hombres
-720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,0,7,9,3,3,Hombres
-721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,0,9,18,2,2,Hombres
-722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,0,2,0,0,0,Hombres
-723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,0,0,1,0,0,Hombres
-725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,0,0,1,0,0,Hombres
-727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,0,0,0,0,1,Hombres
-763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,0,7,38,9,7,Hombres
-764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,0,0,1,0,0,Hombres
-765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,0,0,3,1,1,Hombres
-767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,0,0,1,0,0,Hombres
-799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,0,71,310,38,32,Hombres
-13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,58,3844,21999,3038,1969,Hombres
-802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,7,653,1951,28,415,Hombres
-803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,7,583,1826,39,271,Hombres
-804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,1,414,1458,20,199,Hombres
-806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,0,1,3,0,3,Hombres
-808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,6,699,1844,25,304,Hombres
-809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,10,718,1511,30,218,Hombres
-810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,12,1404,2994,59,529,Hombres
-811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,1,37,108,1,9,Hombres
-812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,13,779,2833,112,315,Hombres
-814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,0,0,0,0,0,Hombres
-816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,2,49,339,74,33,Hombres
-817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,0,0,30,1,14,Hombres
-821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,1,26,96,14,7,Hombres
-825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,1,169,216,1,12,Hombres
-826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,1,23,316,24,24,Hombres
-827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,0,0,3,0,2,Hombres
-828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,0,0,10,0,1,Hombres
-829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",0,1,0,0,0,Hombres
-831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,0,82,304,1,38,Hombres
-832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,2,369,1645,40,208,Hombres
-833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,0,2,23,5,2,Hombres
-834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,0,19,60,5,19,Hombres
-836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,0,0,6,2,1,Hombres
-838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,0,0,6,0,1,Hombres
-839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,0,0,0,0,0,Hombres
-840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,17,627,2832,295,326,Hombres
-841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,1,25,141,23,15,Hombres
-846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,1,59,202,3,32,Hombres
-847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,9,551,2042,137,273,Hombres
-848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,7,807,2927,212,295,Hombres
-849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,1,7,19,0,1,Hombres
-851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,0,3,9,1,0,Hombres
-853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,0,10,48,3,1,Hombres
-854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,0,9,44,1,5,Hombres
-855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,4,61,89,13,9,Hombres
-856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,0,39,264,48,19,Hombres
-858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,0,1,0,0,1,Hombres
-861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,0,2,1,0,0,Hombres
-862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,0,1,23,0,0,Hombres
-864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,0,1,0,1,0,Hombres
-867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",0,91,314,3,88,Hombres
-868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,0,0,1,0,0,Hombres
-869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,13,977,5427,424,802,Hombres
-871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,0,0,1,0,0,Hombres
-877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,1,1,2,0,1,Hombres
-891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,1,187,469,13,29,Hombres
-892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,0,8,17,0,0,Hombres
-896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,0,2,5,1,0,Hombres
-899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,9,644,1591,37,175,Hombres
-901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,1,314,3061,760,137,Hombres
-905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,1,16,108,35,7,Hombres
-910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,0,0,0,1,0,Hombres
-999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,0,13,124,23,4,Hombres
-1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,0,1,1,1,1,Hombres
-1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,0,3,10,1,2,Hombres
-1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,0,8,18,1,2,Hombres
-1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,11,610,2123,69,245,Hombres
-2005,DELITOS INFORMÁTICOS,Acceso ilícito,0,1,0,0,0,Hombres
-3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,0,0,1,0,0,Hombres
-4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,0,0,1,0,0,Hombres
-5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,0,1,1,0,0,Hombres
-5002,DELITOS TRIBUTARIOS,Comercio clandestino,0,0,9,0,0,Hombres
-7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,0,1,16,1,1,Hombres
-7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,2,56,319,35,17,Hombres
-7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,6,336,2845,152,172,Hombres
-7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,0,0,4,1,0,Hombres
-7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,0,2,10,0,0,Hombres
-7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,0,0,1,0,0,Hombres
-7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",0,0,0,0,0,Hombres
-7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),10,966,6185,276,629,Hombres
-7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,0,0,2,0,0,Hombres
-7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,0,1,30,1,16,Hombres
-7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,0,0,1,0,0,Hombres
-7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,0,3,37,1,8,Hombres
-7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,0,1,0,0,0,Hombres
-7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",0,0,1,0,0,Hombres
-7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,0,0,1,0,0,Hombres
-7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,1,125,908,52,146,Hombres
-8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,0,20,155,7,6,Hombres
-9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,0,1,1,1,0,Hombres
-9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,0,1,8,0,0,Hombres
-9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,0,1,31,9,5,Hombres
-10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",2,95,396,11,40,Hombres
-10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,0,48,195,4,36,Hombres
-10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,0,15,96,4,8,Hombres
-10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,0,0,4,0,0,Hombres
-10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",0,0,1,0,0,Hombres
-10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,0,9,42,3,8,Hombres
-10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",0,2,34,3,3,Hombres
-10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,0,11,91,8,11,Hombres
-10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,1,304,1698,94,248,Hombres
-11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,0,1,12,0,2,Hombres
-11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",0,0,20,5,1,Hombres
-11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,0,1,3,0,0,Hombres
-11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,0,1,6,0,1,Hombres
-11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,0,2,12,2,0,Hombres
-12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,3,51,334,36,25,Hombres
-12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,3,139,1487,393,96,Hombres
-12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,2,741,5535,454,277,Hombres
-12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,0,2,34,11,1,Hombres
-12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,0,138,1698,425,160,Hombres
-12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,0,5,36,3,5,Hombres
-12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,0,5,85,21,13,Hombres
-12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,0,3,12,1,0,Hombres
-14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,0,61,328,57,13,Hombres
-14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,0,0,3,1,4,Hombres
-14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,0,9,50,13,5,Hombres
-14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,0,8,92,10,7,Hombres
-14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,1,58,375,55,33,Hombres
-14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,0,31,238,33,20,Hombres
-14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,0,34,613,142,95,Hombres
-14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,0,2,38,8,1,Hombres
-14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,0,73,1588,233,302,Hombres
-14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,14,1727,12947,2682,857,Hombres
-14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,0,5,11,0,2,Hombres
-14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,0,94,467,77,10,Hombres
-14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,1,87,1249,249,103,Hombres
-14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,0,1,0,0,0,Hombres
-14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,0,2,9,2,2,Hombres
-14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,0,0,1,0,0,Hombres
-14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,0,1,6,0,0,Hombres
-14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,0,0,5,0,0,Hombres
-14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,0,4,85,53,6,Hombres
-12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,0,4,8,2,3,Hombres
-12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,0,9,36,11,0,Hombres
-12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,0,7,20,4,1,Hombres
-12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,0,4,27,3,3,Hombres
-12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,0,0,2,0,0,Hombres
-12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,5,216,1250,48,117,Hombres
-12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,0,1,27,3,7,Hombres
-12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,0,12,104,3,1,Hombres
-12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,0,21,140,2,10,Hombres
-12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,0,0,3,0,0,Hombres
-12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,5,144,837,50,105,Hombres
-12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,2,283,1080,43,182,Hombres
-12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",0,0,2,1,0,Hombres
-12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",0,1,0,0,0,Hombres
-12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,0,0,0,1,0,Hombres
-12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,0,1,32,3,3,Hombres
-12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,0,0,0,0,0,Hombres
-12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,0,0,10,1,0,Hombres
-12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,0,0,2,0,0,Hombres
-12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,0,0,7,3,1,Hombres
-12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,0,6,7,0,0,Hombres
-12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,0,0,7,0,0,Hombres
-12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,0,0,13,3,0,Hombres
-12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,0,0,0,1,0,Hombres
-12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,0,0,1,0,0,Hombres
-12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,0,3,13,9,3,Hombres
-12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,29,1877,4039,243,406,Hombres
-12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,0,2,9,2,0,Hombres
-12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,0,2,15,2,0,Hombres
-12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,0,0,3,0,0,Hombres
-12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,0,1,0,0,0,Hombres
-12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,0,14,64,4,2,Hombres
-12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,0,7,2,1,0,Hombres
-12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",0,0,2,0,0,Hombres
-12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",0,0,5,0,0,Hombres
-12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,0,0,11,2,0,Hombres
-12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,0,0,0,0,0,Hombres
-12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,4,92,147,41,9,Hombres
-13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,0,0,1,2,0,Hombres
-13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,0,2,54,7,9,Hombres
-15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,0,0,3,0,0,Hombres
-16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,0,0,0,0,0,Hombres
-22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,0,1,6,0,0,Hombres
-22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,0,0,1,0,0,Hombres
-23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,0,0,1,0,0,Hombres
-23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,0,0,3,0,0,Hombres
-23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,0,0,11,4,0,Hombres
-20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,0,4,24,2,3,Hombres
-20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,0,1,13,1,1,Hombres
-21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,0,0,0,1,0,Hombres
-21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,0,0,1,0,0,Hombres
-22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),1,41,260,36,55,Hombres
-22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,0,8,36,7,0,Hombres
-22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,0,1,3,0,0,Hombres
-13021,FALTAS,Ofensas al pudor,1,15,63,10,9,Hombres
-13023,FALTAS,Alterar el orden público,0,1,1,0,0,Hombres
-13025,FALTAS,Dejar animales sueltos,0,0,0,1,0,Hombres
-13026,FALTAS,Arrojamiento de piedras u otros objetos,0,4,7,0,1,Hombres
-13027,FALTAS,Daño (falta),0,1,6,0,1,Hombres
-13028,FALTAS,Hurto (falta),14,2428,12018,1040,1014,Hombres
-13030,FALTAS,Amenaza con arma (falta),4,365,975,55,133,Hombres
-13031,FALTAS,Falta de respeto a la autoridad pública,0,43,306,37,18,Hombres
-13033,FALTAS,Riña pública,9,464,3818,475,333,Hombres
-13035,FALTAS,Desórdenes en espectáculos públicos,0,1,9,2,0,Hombres
-13052,FALTAS,Ocultación de identidad en control investigativo,0,76,275,19,29,Hombres
-13053,FALTAS,Ocultación de identidad en control preventivo,0,172,713,37,104,Hombres
-13097,FALTAS,Otras faltas Código Penal,0,26,119,17,8,Hombres
-13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,0,0,3,0,1,Hombres
-13101,FALTAS,Transporte de desechos a vertederos clandestinos,0,0,1,0,0,Hombres
-13103,FALTAS,Perro potencialmente peligroso no inscrito,0,0,1,0,0,Hombres
-7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,3,334,1997,183,109,Hombres
-7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,0,24,199,21,13,Hombres
-18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,0,0,9,3,0,Hombres
-101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,0,2,7,4,0,Mujeres
-202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,0,2,7,0,1,Mujeres
-203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,0,0,2,0,1,Mujeres
-204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,0,53,218,34,24,Mujeres
-205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",0,0,0,0,0,Mujeres
-207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",0,1,1,1,0,Mujeres
-216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",0,0,17,3,4,Mujeres
-221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,0,0,1,1,0,Mujeres
-225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,0,0,0,0,0,Mujeres
-229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",0,0,0,0,0,Mujeres
-231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,0,0,1,0,0,Mujeres
-235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,0,0,0,0,0,Mujeres
-236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,0,0,0,0,0,Mujeres
-237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,0,4,2,0,2,Mujeres
-248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,0,0,0,0,0,Mujeres
-301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,0,0,0,0,0,Mujeres
-302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,0,15,137,35,15,Mujeres
-303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,0,0,5,2,1,Mujeres
-306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",0,0,1,1,0,Mujeres
-308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,0,0,0,0,0,Mujeres
-309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,1,22,73,3,12,Mujeres
-310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,0,0,1,0,0,Mujeres
-312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",0,0,0,0,0,Mujeres
-399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",0,0,0,0,0,Mujeres
-410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,0,0,0,2,1,Mujeres
-411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,0,0,1,0,0,Mujeres
-416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,0,0,0,0,0,Mujeres
-420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,0,0,0,0,0,Mujeres
-499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,0,0,0,0,0,Mujeres
-501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,1,42,127,20,17,Mujeres
-502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,0,0,6,0,1,Mujeres
-503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,0,1,50,5,1,Mujeres
-505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",0,4,10,0,0,Mujeres
-509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,0,2,22,3,0,Mujeres
-510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,0,0,3,1,0,Mujeres
-512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,0,0,1,0,0,Mujeres
-514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,0,0,1,0,0,Mujeres
-515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,0,11,71,3,9,Mujeres
-516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,1,14,78,15,5,Mujeres
-518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,0,38,139,5,24,Mujeres
-519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",0,0,0,1,0,Mujeres
-523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,0,1,0,0,0,Mujeres
-524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,7,446,2132,324,241,Mujeres
-525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,4,116,448,53,57,Mujeres
-526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),0,3,8,2,3,Mujeres
-527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),0,0,10,0,6,Mujeres
-530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,0,1,5,1,2,Mujeres
-531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,0,5,9,2,2,Mujeres
-532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,0,0,0,0,0,Mujeres
-533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,0,1,6,0,1,Mujeres
-535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,0,0,0,0,0,Mujeres
-599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,0,0,3,1,0,Mujeres
-602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,0,0,3,1,2,Mujeres
-604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,0,0,0,0,0,Mujeres
-605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,0,0,0,0,0,Mujeres
-608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,0,0,1,0,0,Mujeres
-610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,0,0,0,1,0,Mujeres
-615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,1,0,1,0,0,Mujeres
-619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,0,0,1,0,0,Mujeres
-620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,0,0,0,0,0,Mujeres
-621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,0,0,1,0,0,Mujeres
-623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,0,3,5,0,1,Mujeres
-624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,0,0,5,0,0,Mujeres
-625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,0,0,2,0,0,Mujeres
-629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,0,0,0,0,0,Mujeres
-631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,0,0,3,0,0,Mujeres
-633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),0,0,0,0,0,Mujeres
-634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,0,0,0,0,0,Mujeres
-635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),0,0,3,0,0,Mujeres
-637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,0,0,1,1,0,Mujeres
-638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",0,0,0,0,0,Mujeres
-639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,0,0,8,1,1,Mujeres
-640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,0,1,0,0,0,Mujeres
-649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,0,0,0,0,0,Mujeres
-699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",0,0,1,0,0,Mujeres
-701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,0,4,6,0,0,Mujeres
-702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,0,3,16,1,1,Mujeres
-703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,0,0,3,0,0,Mujeres
-705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,0,0,2,0,1,Mujeres
-706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,0,0,0,0,0,Mujeres
-707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,0,0,2,0,0,Mujeres
-709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,1,69,325,32,27,Mujeres
-710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,1,139,745,134,52,Mujeres
-717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,0,4,13,1,0,Mujeres
-720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,0,0,0,0,0,Mujeres
-721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,0,1,1,0,0,Mujeres
-722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,0,0,0,0,0,Mujeres
-723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,0,0,0,1,0,Mujeres
-725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,0,0,0,0,0,Mujeres
-727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,0,0,0,0,0,Mujeres
-763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,0,3,52,12,7,Mujeres
-764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,0,0,1,1,0,Mujeres
-765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,0,1,0,2,0,Mujeres
-767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,0,0,0,0,0,Mujeres
-799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,0,6,38,1,4,Mujeres
-13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,23,1445,9778,1905,699,Mujeres
-802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,0,62,187,3,47,Mujeres
-803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,0,66,253,9,43,Mujeres
-804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,3,39,172,6,21,Mujeres
-806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,0,0,0,0,1,Mujeres
-808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,0,39,92,4,13,Mujeres
-809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,1,76,159,5,20,Mujeres
-810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,1,65,187,2,37,Mujeres
-811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,0,4,14,1,1,Mujeres
-812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,2,116,539,40,52,Mujeres
-814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,0,3,1,0,0,Mujeres
-816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,1,11,143,59,15,Mujeres
-817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,0,0,1,0,1,Mujeres
-821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,0,6,34,7,4,Mujeres
-825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,0,10,15,0,1,Mujeres
-826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,0,8,139,11,15,Mujeres
-827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,0,0,2,0,0,Mujeres
-828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,0,0,0,0,0,Mujeres
-829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",0,0,0,0,0,Mujeres
-831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,0,11,11,0,2,Mujeres
-832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,0,7,44,1,7,Mujeres
-833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,0,3,5,0,2,Mujeres
-834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,0,9,17,5,4,Mujeres
-836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,0,0,1,0,1,Mujeres
-838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,0,2,2,0,1,Mujeres
-839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,0,0,1,0,0,Mujeres
-840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,3,129,626,96,48,Mujeres
-841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,1,6,18,5,2,Mujeres
-846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,0,9,47,3,7,Mujeres
-847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,4,188,863,105,116,Mujeres
-848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,2,301,1210,180,122,Mujeres
-849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,0,1,1,0,0,Mujeres
-851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,0,0,1,1,0,Mujeres
-853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,0,2,5,1,0,Mujeres
-854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,0,2,10,1,2,Mujeres
-855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,3,12,21,2,4,Mujeres
-856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,0,1,47,19,1,Mujeres
-858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,0,0,3,0,0,Mujeres
-861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,0,0,0,0,0,Mujeres
-862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,0,0,1,0,1,Mujeres
-864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,0,0,0,0,0,Mujeres
-867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",0,9,15,1,6,Mujeres
-868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,0,0,1,0,0,Mujeres
-869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,0,95,736,144,79,Mujeres
-871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,0,0,0,0,0,Mujeres
-877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,0,0,0,0,0,Mujeres
-891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,1,10,28,0,0,Mujeres
-892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,0,0,1,0,0,Mujeres
-896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,0,0,0,0,0,Mujeres
-899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,0,24,77,4,7,Mujeres
-901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,0,13,440,354,27,Mujeres
-905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,0,1,6,6,1,Mujeres
-910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,0,0,0,0,0,Mujeres
-999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,0,1,18,17,1,Mujeres
-1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,0,0,1,0,0,Mujeres
-1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,0,1,0,0,0,Mujeres
-1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,0,0,2,0,1,Mujeres
-1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,0,40,148,6,16,Mujeres
-2005,DELITOS INFORMÁTICOS,Acceso ilícito,0,0,0,0,0,Mujeres
-3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,0,0,0,0,0,Mujeres
-4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,0,0,4,0,0,Mujeres
-5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,0,1,1,0,0,Mujeres
-5002,DELITOS TRIBUTARIOS,Comercio clandestino,0,2,6,0,0,Mujeres
-7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,0,2,7,2,0,Mujeres
-7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,1,26,122,20,7,Mujeres
-7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,0,96,782,28,32,Mujeres
-7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,0,1,1,0,0,Mujeres
-7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,0,0,1,0,0,Mujeres
-7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,0,0,0,0,0,Mujeres
-7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",0,0,1,0,0,Mujeres
-7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),4,186,1143,57,86,Mujeres
-7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,0,0,0,0,0,Mujeres
-7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,0,1,2,0,1,Mujeres
-7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,0,0,0,0,0,Mujeres
-7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,0,0,4,0,3,Mujeres
-7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,0,0,0,0,0,Mujeres
-7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",0,0,1,0,0,Mujeres
-7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,1,0,0,0,0,Mujeres
-7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,1,22,146,9,28,Mujeres
-8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,0,6,67,2,4,Mujeres
-9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,0,0,0,0,0,Mujeres
-9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,0,0,3,3,0,Mujeres
-9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,0,2,10,0,0,Mujeres
-10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",0,6,31,4,2,Mujeres
-10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,0,3,11,1,0,Mujeres
-10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,0,2,6,1,0,Mujeres
-10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,0,0,0,0,0,Mujeres
-10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",0,0,0,0,0,Mujeres
-10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,0,1,1,0,2,Mujeres
-10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",0,0,0,0,2,Mujeres
-10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,0,3,8,1,1,Mujeres
-10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,0,15,123,17,21,Mujeres
-11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,0,1,3,0,0,Mujeres
-11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",0,0,2,1,0,Mujeres
-11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,0,1,4,0,0,Mujeres
-11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,0,0,1,0,0,Mujeres
-11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,0,1,20,0,2,Mujeres
-12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,0,0,20,6,3,Mujeres
-12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,0,8,210,151,15,Mujeres
-12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,0,13,197,28,10,Mujeres
-12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,0,0,4,5,0,Mujeres
-12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,0,9,140,113,17,Mujeres
-12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,0,1,3,1,0,Mujeres
-12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,0,0,10,7,1,Mujeres
-12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,0,0,1,0,0,Mujeres
-14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,0,1,11,6,1,Mujeres
-14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,0,0,0,0,0,Mujeres
-14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,0,0,5,1,0,Mujeres
-14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,0,0,8,3,1,Mujeres
-14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,0,1,18,10,2,Mujeres
-14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,0,0,25,9,3,Mujeres
-14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,0,5,88,65,20,Mujeres
-14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,0,0,2,0,0,Mujeres
-14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,0,4,72,28,18,Mujeres
-14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,1,43,820,513,79,Mujeres
-14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,0,0,0,0,0,Mujeres
-14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,0,2,8,6,0,Mujeres
-14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,0,8,79,27,11,Mujeres
-14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,0,0,0,0,0,Mujeres
-14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,0,0,0,0,0,Mujeres
-14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,0,0,0,0,0,Mujeres
-14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,0,0,0,0,0,Mujeres
-14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,0,0,0,0,0,Mujeres
-14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,0,0,5,4,0,Mujeres
-12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,0,1,2,0,0,Mujeres
-12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,0,0,4,0,0,Mujeres
-12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,0,0,1,0,0,Mujeres
-12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,0,0,9,0,1,Mujeres
-12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,0,1,1,0,0,Mujeres
-12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,2,66,466,20,12,Mujeres
-12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,0,0,11,0,0,Mujeres
-12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,1,6,35,2,0,Mujeres
-12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,0,2,47,3,3,Mujeres
-12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,0,0,1,0,0,Mujeres
-12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,1,39,254,22,36,Mujeres
-12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,0,42,135,5,24,Mujeres
-12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",0,0,0,0,0,Mujeres
-12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",0,0,0,0,0,Mujeres
-12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,0,0,0,0,0,Mujeres
-12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,0,0,5,2,0,Mujeres
-12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,0,0,0,1,0,Mujeres
-12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,0,0,0,0,0,Mujeres
-12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,0,0,0,0,0,Mujeres
-12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,0,0,0,0,0,Mujeres
-12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,0,1,1,0,0,Mujeres
-12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,0,2,0,0,0,Mujeres
-12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,0,1,1,0,0,Mujeres
-12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,0,0,0,0,0,Mujeres
-12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,0,0,0,0,0,Mujeres
-12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,0,0,3,2,0,Mujeres
-12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,0,203,433,44,45,Mujeres
-12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,0,0,0,2,0,Mujeres
-12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,0,0,4,0,2,Mujeres
-12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,0,0,1,0,0,Mujeres
-12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,0,0,0,0,0,Mujeres
-12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,0,0,4,0,0,Mujeres
-12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,0,1,0,0,0,Mujeres
-12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",0,0,0,0,0,Mujeres
-12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",0,0,0,0,0,Mujeres
-12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,0,0,3,0,0,Mujeres
-12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,0,0,1,0,0,Mujeres
-12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,0,10,15,4,3,Mujeres
-13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,0,0,0,0,0,Mujeres
-13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,0,0,6,1,0,Mujeres
-15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,0,0,0,0,0,Mujeres
-16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,0,0,1,0,0,Mujeres
-22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,0,0,0,0,0,Mujeres
-22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,0,0,0,0,0,Mujeres
-23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,0,0,0,0,0,Mujeres
-23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,0,0,0,0,0,Mujeres
-23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,0,0,2,1,0,Mujeres
-20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,0,0,9,1,0,Mujeres
-20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,0,0,1,1,0,Mujeres
-21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,0,0,0,0,0,Mujeres
-21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,0,0,0,0,0,Mujeres
-22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),0,5,64,13,7,Mujeres
-22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,0,0,1,0,0,Mujeres
-22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,0,0,1,0,0,Mujeres
-13021,FALTAS,Ofensas al pudor,0,2,2,1,0,Mujeres
-13023,FALTAS,Alterar el orden público,0,0,1,0,0,Mujeres
-13025,FALTAS,Dejar animales sueltos,0,0,0,0,0,Mujeres
-13026,FALTAS,Arrojamiento de piedras u otros objetos,1,1,1,0,1,Mujeres
-13027,FALTAS,Daño (falta),0,0,2,0,0,Mujeres
-13028,FALTAS,Hurto (falta),10,1159,6783,1034,540,Mujeres
-13030,FALTAS,Amenaza con arma (falta),1,51,157,17,21,Mujeres
-13031,FALTAS,Falta de respeto a la autoridad pública,0,6,51,9,1,Mujeres
-13033,FALTAS,Riña pública,1,253,2039,333,186,Mujeres
-13035,FALTAS,Desórdenes en espectáculos públicos,0,1,1,0,0,Mujeres
-13052,FALTAS,Ocultación de identidad en control investigativo,0,8,50,4,7,Mujeres
-13053,FALTAS,Ocultación de identidad en control preventivo,1,22,101,18,16,Mujeres
-13097,FALTAS,Otras faltas Código Penal,2,10,51,9,4,Mujeres
-13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,0,0,0,1,0,Mujeres
-13101,FALTAS,Transporte de desechos a vertederos clandestinos,0,0,0,0,0,Mujeres
-13103,FALTAS,Perro potencialmente peligroso no inscrito,0,0,2,0,0,Mujeres
-7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,0,26,207,35,10,Mujeres
-7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,0,2,37,5,1,Mujeres
-18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,0,0,6,2,0,Mujeres
+Código,Familia,Materia,Sexo,Analfabeta,Básica,Media,Superior ,Sin información
+101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,Hombres,1,25,76,6,2
+202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,Hombres,0,16,54,2,15
+203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,Hombres,0,1,7,1,0
+204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,Hombres,11,358,1242,93,163
+205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",Hombres,0,0,1,0,0
+207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",Hombres,0,8,29,0,0
+216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",Hombres,0,6,35,2,3
+221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,Hombres,0,0,3,2,0
+225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,Hombres,0,0,1,0,0
+229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",Hombres,0,1,0,0,0
+231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,Hombres,0,0,16,4,0
+235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,Hombres,0,0,2,0,0
+236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,Hombres,0,2,8,0,0
+237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,Hombres,0,9,34,2,9
+248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,Hombres,0,0,4,0,0
+301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,Hombres,0,2,5,1,0
+302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,Hombres,2,206,1507,168,182
+303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,Hombres,0,1,29,5,0
+306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",Hombres,0,2,2,0,0
+308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,Hombres,0,0,3,1,0
+309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,Hombres,1,125,470,13,69
+310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,Hombres,0,0,12,2,0
+312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",Hombres,0,0,2,1,3
+399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",Hombres,0,0,1,1,0
+410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,Hombres,0,0,8,1,3
+411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,Hombres,1,14,97,6,11
+416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,Hombres,0,0,0,1,0
+420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,Hombres,0,0,3,0,0
+499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,Hombres,0,0,3,0,0
+501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,Hombres,1,130,545,37,54
+502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,Hombres,0,0,13,0,0
+503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,Hombres,0,1,52,6,6
+505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",Hombres,0,8,76,6,0
+509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,Hombres,0,34,88,13,1
+510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,Hombres,0,3,13,2,2
+512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,Hombres,0,0,9,0,0
+514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,Hombres,0,0,0,0,0
+515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,Hombres,1,92,535,38,45
+516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,Hombres,1,38,287,23,31
+518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,Hombres,6,585,2469,46,326
+519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",Hombres,0,0,5,2,0
+523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,Hombres,0,0,0,0,0
+524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,Hombres,41,2825,11009,1046,1415
+525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,Hombres,13,785,2877,219,365
+526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),Hombres,0,1,16,0,2
+527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),Hombres,0,4,21,0,4
+530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,Hombres,0,11,25,2,8
+531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,Hombres,0,3,16,0,1
+532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,Hombres,0,1,17,2,1
+533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,Hombres,0,2,22,2,3
+535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,Hombres,0,1,1,0,0
+599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,Hombres,0,0,14,1,3
+602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,Hombres,0,0,0,0,0
+604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,Hombres,0,0,1,0,0
+605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,Hombres,0,0,1,0,0
+608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,Hombres,0,1,6,2,0
+610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,Hombres,0,0,1,1,0
+615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,Hombres,0,5,24,1,5
+619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,Hombres,1,10,31,6,1
+620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,Hombres,0,12,35,3,5
+621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,Hombres,0,12,40,1,3
+623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,Hombres,3,62,147,18,21
+624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,Hombres,0,0,0,0,0
+625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,Hombres,0,0,1,0,0
+629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Hombres,0,0,1,0,0
+631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Hombres,0,1,6,1,0
+633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),Hombres,0,1,3,0,0
+634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,Hombres,0,5,16,0,0
+635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),Hombres,0,13,33,10,9
+637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,Hombres,0,32,143,25,23
+638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",Hombres,0,0,17,3,0
+639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,Hombres,9,106,385,90,43
+640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,Hombres,2,34,79,12,18
+649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Hombres,0,0,1,0,0
+699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",Hombres,0,1,4,2,2
+701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,Hombres,0,0,5,0,0
+702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,Hombres,0,32,78,4,12
+703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,Hombres,0,4,17,0,7
+705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,Hombres,0,2,18,0,7
+706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,Hombres,0,0,1,0,1
+707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,Hombres,0,0,0,0,0
+709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,Hombres,1,399,1362,143,120
+710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,Hombres,8,468,2387,305,226
+717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,Hombres,0,9,49,1,3
+720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,Hombres,0,7,9,3,3
+721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,Hombres,0,9,18,2,2
+722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,Hombres,0,2,0,0,0
+723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,Hombres,0,0,1,0,0
+725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,Hombres,0,0,1,0,0
+727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,Hombres,0,0,0,0,1
+763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,Hombres,0,7,38,9,7
+764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,Hombres,0,0,1,0,0
+765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,Hombres,0,0,3,1,1
+767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,Hombres,0,0,1,0,0
+799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,Hombres,0,71,310,38,32
+13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,Hombres,58,3844,21999,3038,1969
+802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,Hombres,7,653,1951,28,415
+803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,Hombres,7,583,1826,39,271
+804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,Hombres,1,414,1458,20,199
+806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,Hombres,0,1,3,0,3
+808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,Hombres,6,699,1844,25,304
+809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,Hombres,10,718,1511,30,218
+810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,Hombres,12,1404,2994,59,529
+811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,Hombres,1,37,108,1,9
+812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,Hombres,13,779,2833,112,315
+814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,Hombres,0,0,0,0,0
+816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,Hombres,2,49,339,74,33
+817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,Hombres,0,0,30,1,14
+821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,Hombres,1,26,96,14,7
+825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,Hombres,1,169,216,1,12
+826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,Hombres,1,23,316,24,24
+827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,Hombres,0,0,3,0,2
+828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,Hombres,0,0,10,0,1
+829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",Hombres,0,1,0,0,0
+831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,Hombres,0,82,304,1,38
+832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,Hombres,2,369,1645,40,208
+833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,Hombres,0,2,23,5,2
+834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,Hombres,0,19,60,5,19
+836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,Hombres,0,0,6,2,1
+838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,Hombres,0,0,6,0,1
+839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,Hombres,0,0,0,0,0
+840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,Hombres,17,627,2832,295,326
+841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,Hombres,1,25,141,23,15
+846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,Hombres,1,59,202,3,32
+847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,Hombres,9,551,2042,137,273
+848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,Hombres,7,807,2927,212,295
+849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,Hombres,1,7,19,0,1
+851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,Hombres,0,3,9,1,0
+853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,Hombres,0,10,48,3,1
+854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,Hombres,0,9,44,1,5
+855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,Hombres,4,61,89,13,9
+856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,Hombres,0,39,264,48,19
+858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,Hombres,0,1,0,0,1
+861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,Hombres,0,2,1,0,0
+862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,Hombres,0,1,23,0,0
+864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,Hombres,0,1,0,1,0
+867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",Hombres,0,91,314,3,88
+868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,Hombres,0,0,1,0,0
+869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,Hombres,13,977,5427,424,802
+871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,Hombres,0,0,1,0,0
+877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,Hombres,1,1,2,0,1
+891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,Hombres,1,187,469,13,29
+892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,Hombres,0,8,17,0,0
+896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,Hombres,0,2,5,1,0
+899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,Hombres,9,644,1591,37,175
+901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,Hombres,1,314,3061,760,137
+905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,Hombres,1,16,108,35,7
+910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,Hombres,0,0,0,1,0
+999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,Hombres,0,13,124,23,4
+1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,Hombres,0,1,1,1,1
+1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,Hombres,0,3,10,1,2
+1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,Hombres,0,8,18,1,2
+1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,Hombres,11,610,2123,69,245
+2005,DELITOS INFORMÁTICOS,Acceso ilícito,Hombres,0,1,0,0,0
+3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,Hombres,0,0,1,0,0
+4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,Hombres,0,0,1,0,0
+5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,Hombres,0,1,1,0,0
+5002,DELITOS TRIBUTARIOS,Comercio clandestino,Hombres,0,0,9,0,0
+7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,Hombres,0,1,16,1,1
+7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,Hombres,2,56,319,35,17
+7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,Hombres,6,336,2845,152,172
+7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,Hombres,0,0,4,1,0
+7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,Hombres,0,2,10,0,0
+7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,Hombres,0,0,1,0,0
+7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",Hombres,0,0,0,0,0
+7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),Hombres,10,966,6185,276,629
+7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,Hombres,0,0,2,0,0
+7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,Hombres,0,1,30,1,16
+7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,Hombres,0,0,1,0,0
+7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,Hombres,0,3,37,1,8
+7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,Hombres,0,1,0,0,0
+7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",Hombres,0,0,1,0,0
+7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,Hombres,0,0,1,0,0
+7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,Hombres,1,125,908,52,146
+8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,Hombres,0,20,155,7,6
+9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,Hombres,0,1,1,1,0
+9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,Hombres,0,1,8,0,0
+9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,Hombres,0,1,31,9,5
+10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",Hombres,2,95,396,11,40
+10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,Hombres,0,48,195,4,36
+10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,Hombres,0,15,96,4,8
+10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,Hombres,0,0,4,0,0
+10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",Hombres,0,0,1,0,0
+10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,Hombres,0,9,42,3,8
+10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",Hombres,0,2,34,3,3
+10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,Hombres,0,11,91,8,11
+10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,Hombres,1,304,1698,94,248
+11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,Hombres,0,1,12,0,2
+11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",Hombres,0,0,20,5,1
+11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,Hombres,0,1,3,0,0
+11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,Hombres,0,1,6,0,1
+11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,Hombres,0,2,12,2,0
+12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,Hombres,3,51,334,36,25
+12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,Hombres,3,139,1487,393,96
+12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,Hombres,2,741,5535,454,277
+12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,Hombres,0,2,34,11,1
+12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,Hombres,0,138,1698,425,160
+12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,Hombres,0,5,36,3,5
+12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,Hombres,0,5,85,21,13
+12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,Hombres,0,3,12,1,0
+14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,Hombres,0,61,328,57,13
+14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,Hombres,0,0,3,1,4
+14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,Hombres,0,9,50,13,5
+14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,Hombres,0,8,92,10,7
+14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,Hombres,1,58,375,55,33
+14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,Hombres,0,31,238,33,20
+14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,Hombres,0,34,613,142,95
+14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,Hombres,0,2,38,8,1
+14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,Hombres,0,73,1588,233,302
+14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,Hombres,14,1727,12947,2682,857
+14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,Hombres,0,5,11,0,2
+14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,Hombres,0,94,467,77,10
+14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,Hombres,1,87,1249,249,103
+14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,Hombres,0,1,0,0,0
+14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,Hombres,0,2,9,2,2
+14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,Hombres,0,0,1,0,0
+14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,Hombres,0,1,6,0,0
+14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,Hombres,0,0,5,0,0
+14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,Hombres,0,4,85,53,6
+12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,Hombres,0,4,8,2,3
+12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,Hombres,0,9,36,11,0
+12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,Hombres,0,7,20,4,1
+12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,Hombres,0,4,27,3,3
+12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,Hombres,0,0,2,0,0
+12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,Hombres,5,216,1250,48,117
+12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,Hombres,0,1,27,3,7
+12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,Hombres,0,12,104,3,1
+12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,Hombres,0,21,140,2,10
+12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,Hombres,0,0,3,0,0
+12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,Hombres,5,144,837,50,105
+12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,Hombres,2,283,1080,43,182
+12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",Hombres,0,0,2,1,0
+12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",Hombres,0,1,0,0,0
+12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,Hombres,0,0,0,1,0
+12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,Hombres,0,1,32,3,3
+12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,Hombres,0,0,0,0,0
+12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,Hombres,0,0,10,1,0
+12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,Hombres,0,0,2,0,0
+12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,Hombres,0,0,7,3,1
+12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,Hombres,0,6,7,0,0
+12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,Hombres,0,0,7,0,0
+12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,Hombres,0,0,13,3,0
+12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,Hombres,0,0,0,1,0
+12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,Hombres,0,0,1,0,0
+12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,Hombres,0,3,13,9,3
+12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,Hombres,29,1877,4039,243,406
+12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,Hombres,0,2,9,2,0
+12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,Hombres,0,2,15,2,0
+12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,Hombres,0,0,3,0,0
+12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,Hombres,0,1,0,0,0
+12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,Hombres,0,14,64,4,2
+12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,Hombres,0,7,2,1,0
+12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",Hombres,0,0,2,0,0
+12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",Hombres,0,0,5,0,0
+12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,Hombres,0,0,11,2,0
+12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,Hombres,0,0,0,0,0
+12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,Hombres,4,92,147,41,9
+13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,Hombres,0,0,1,2,0
+13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,Hombres,0,2,54,7,9
+15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,Hombres,0,0,3,0,0
+16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,Hombres,0,0,0,0,0
+22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,Hombres,0,1,6,0,0
+22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,Hombres,0,0,1,0,0
+23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,Hombres,0,0,1,0,0
+23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Hombres,0,0,3,0,0
+23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,Hombres,0,0,11,4,0
+20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,Hombres,0,4,24,2,3
+20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,Hombres,0,1,13,1,1
+21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,Hombres,0,0,0,1,0
+21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,Hombres,0,0,1,0,0
+22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),Hombres,1,41,260,36,55
+22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,Hombres,0,8,36,7,0
+22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,Hombres,0,1,3,0,0
+13021,FALTAS,Ofensas al pudor,Hombres,1,15,63,10,9
+13023,FALTAS,Alterar el orden público,Hombres,0,1,1,0,0
+13025,FALTAS,Dejar animales sueltos,Hombres,0,0,0,1,0
+13026,FALTAS,Arrojamiento de piedras u otros objetos,Hombres,0,4,7,0,1
+13027,FALTAS,Daño (falta),Hombres,0,1,6,0,1
+13028,FALTAS,Hurto (falta),Hombres,14,2428,12018,1040,1014
+13030,FALTAS,Amenaza con arma (falta),Hombres,4,365,975,55,133
+13031,FALTAS,Falta de respeto a la autoridad pública,Hombres,0,43,306,37,18
+13033,FALTAS,Riña pública,Hombres,9,464,3818,475,333
+13035,FALTAS,Desórdenes en espectáculos públicos,Hombres,0,1,9,2,0
+13052,FALTAS,Ocultación de identidad en control investigativo,Hombres,0,76,275,19,29
+13053,FALTAS,Ocultación de identidad en control preventivo,Hombres,0,172,713,37,104
+13097,FALTAS,Otras faltas Código Penal,Hombres,0,26,119,17,8
+13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,Hombres,0,0,3,0,1
+13101,FALTAS,Transporte de desechos a vertederos clandestinos,Hombres,0,0,1,0,0
+13103,FALTAS,Perro potencialmente peligroso no inscrito,Hombres,0,0,1,0,0
+7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,Hombres,3,334,1997,183,109
+7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,Hombres,0,24,199,21,13
+18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,Hombres,0,0,9,3,0
+101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,Mujeres,0,2,7,4,0
+202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,Mujeres,0,2,7,0,1
+203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,Mujeres,0,0,2,0,1
+204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,Mujeres,0,53,218,34,24
+205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",Mujeres,0,0,0,0,0
+207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",Mujeres,0,1,1,1,0
+216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",Mujeres,0,0,17,3,4
+221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,Mujeres,0,0,1,1,0
+225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,Mujeres,0,0,0,0,0
+229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",Mujeres,0,0,0,0,0
+231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,Mujeres,0,0,1,0,0
+235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,Mujeres,0,0,0,0,0
+236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,Mujeres,0,0,0,0,0
+237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,Mujeres,0,4,2,0,2
+248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,Mujeres,0,0,0,0,0
+301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,Mujeres,0,0,0,0,0
+302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,Mujeres,0,15,137,35,15
+303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,Mujeres,0,0,5,2,1
+306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",Mujeres,0,0,1,1,0
+308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,Mujeres,0,0,0,0,0
+309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,Mujeres,1,22,73,3,12
+310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,Mujeres,0,0,1,0,0
+312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",Mujeres,0,0,0,0,0
+399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",Mujeres,0,0,0,0,0
+410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,Mujeres,0,0,0,2,1
+411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,Mujeres,0,0,1,0,0
+416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,Mujeres,0,0,0,0,0
+420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,Mujeres,0,0,0,0,0
+499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,Mujeres,0,0,0,0,0
+501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,Mujeres,1,42,127,20,17
+502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,Mujeres,0,0,6,0,1
+503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,Mujeres,0,1,50,5,1
+505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",Mujeres,0,4,10,0,0
+509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,Mujeres,0,2,22,3,0
+510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,Mujeres,0,0,3,1,0
+512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,Mujeres,0,0,1,0,0
+514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,Mujeres,0,0,1,0,0
+515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,Mujeres,0,11,71,3,9
+516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,Mujeres,1,14,78,15,5
+518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,Mujeres,0,38,139,5,24
+519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",Mujeres,0,0,0,1,0
+523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,Mujeres,0,1,0,0,0
+524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,Mujeres,7,446,2132,324,241
+525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,Mujeres,4,116,448,53,57
+526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),Mujeres,0,3,8,2,3
+527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),Mujeres,0,0,10,0,6
+530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,Mujeres,0,1,5,1,2
+531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,Mujeres,0,5,9,2,2
+532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,Mujeres,0,0,0,0,0
+533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,Mujeres,0,1,6,0,1
+535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,Mujeres,0,0,0,0,0
+599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,Mujeres,0,0,3,1,0
+602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,Mujeres,0,0,3,1,2
+604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,Mujeres,0,0,0,0,0
+605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,Mujeres,0,0,0,0,0
+608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,Mujeres,0,0,1,0,0
+610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,Mujeres,0,0,0,1,0
+615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,Mujeres,1,0,1,0,0
+619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,Mujeres,0,0,1,0,0
+620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,Mujeres,0,0,0,0,0
+621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,Mujeres,0,0,1,0,0
+623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,Mujeres,0,3,5,0,1
+624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,Mujeres,0,0,5,0,0
+625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,Mujeres,0,0,2,0,0
+629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Mujeres,0,0,0,0,0
+631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Mujeres,0,0,3,0,0
+633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),Mujeres,0,0,0,0,0
+634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,Mujeres,0,0,0,0,0
+635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),Mujeres,0,0,3,0,0
+637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,Mujeres,0,0,1,1,0
+638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",Mujeres,0,0,0,0,0
+639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,Mujeres,0,0,8,1,1
+640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,Mujeres,0,1,0,0,0
+649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Mujeres,0,0,0,0,0
+699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",Mujeres,0,0,1,0,0
+701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,Mujeres,0,4,6,0,0
+702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,Mujeres,0,3,16,1,1
+703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,Mujeres,0,0,3,0,0
+705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,Mujeres,0,0,2,0,1
+706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,Mujeres,0,0,0,0,0
+707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,Mujeres,0,0,2,0,0
+709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,Mujeres,1,69,325,32,27
+710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,Mujeres,1,139,745,134,52
+717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,Mujeres,0,4,13,1,0
+720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,Mujeres,0,0,0,0,0
+721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,Mujeres,0,1,1,0,0
+722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,Mujeres,0,0,0,0,0
+723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,Mujeres,0,0,0,1,0
+725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,Mujeres,0,0,0,0,0
+727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,Mujeres,0,0,0,0,0
+763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,Mujeres,0,3,52,12,7
+764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,Mujeres,0,0,1,1,0
+765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,Mujeres,0,1,0,2,0
+767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,Mujeres,0,0,0,0,0
+799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,Mujeres,0,6,38,1,4
+13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,Mujeres,23,1445,9778,1905,699
+802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,Mujeres,0,62,187,3,47
+803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,Mujeres,0,66,253,9,43
+804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,Mujeres,3,39,172,6,21
+806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,Mujeres,0,0,0,0,1
+808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,Mujeres,0,39,92,4,13
+809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,Mujeres,1,76,159,5,20
+810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,Mujeres,1,65,187,2,37
+811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,Mujeres,0,4,14,1,1
+812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,Mujeres,2,116,539,40,52
+814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,Mujeres,0,3,1,0,0
+816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,Mujeres,1,11,143,59,15
+817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,Mujeres,0,0,1,0,1
+821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,Mujeres,0,6,34,7,4
+825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,Mujeres,0,10,15,0,1
+826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,Mujeres,0,8,139,11,15
+827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,Mujeres,0,0,2,0,0
+828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,Mujeres,0,0,0,0,0
+829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",Mujeres,0,0,0,0,0
+831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,Mujeres,0,11,11,0,2
+832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,Mujeres,0,7,44,1,7
+833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,Mujeres,0,3,5,0,2
+834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,Mujeres,0,9,17,5,4
+836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,Mujeres,0,0,1,0,1
+838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,Mujeres,0,2,2,0,1
+839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,Mujeres,0,0,1,0,0
+840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,Mujeres,3,129,626,96,48
+841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,Mujeres,1,6,18,5,2
+846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,Mujeres,0,9,47,3,7
+847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,Mujeres,4,188,863,105,116
+848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,Mujeres,2,301,1210,180,122
+849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,Mujeres,0,1,1,0,0
+851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,Mujeres,0,0,1,1,0
+853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,Mujeres,0,2,5,1,0
+854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,Mujeres,0,2,10,1,2
+855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,Mujeres,3,12,21,2,4
+856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,Mujeres,0,1,47,19,1
+858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,Mujeres,0,0,3,0,0
+861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,Mujeres,0,0,0,0,0
+862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,Mujeres,0,0,1,0,1
+864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,Mujeres,0,0,0,0,0
+867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",Mujeres,0,9,15,1,6
+868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,Mujeres,0,0,1,0,0
+869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,Mujeres,0,95,736,144,79
+871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,Mujeres,0,0,0,0,0
+877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,Mujeres,0,0,0,0,0
+891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,Mujeres,1,10,28,0,0
+892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,Mujeres,0,0,1,0,0
+896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,Mujeres,0,0,0,0,0
+899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,Mujeres,0,24,77,4,7
+901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,Mujeres,0,13,440,354,27
+905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,Mujeres,0,1,6,6,1
+910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,Mujeres,0,0,0,0,0
+999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,Mujeres,0,1,18,17,1
+1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,Mujeres,0,0,1,0,0
+1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,Mujeres,0,1,0,0,0
+1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,Mujeres,0,0,2,0,1
+1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,Mujeres,0,40,148,6,16
+2005,DELITOS INFORMÁTICOS,Acceso ilícito,Mujeres,0,0,0,0,0
+3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,Mujeres,0,0,0,0,0
+4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,Mujeres,0,0,4,0,0
+5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,Mujeres,0,1,1,0,0
+5002,DELITOS TRIBUTARIOS,Comercio clandestino,Mujeres,0,2,6,0,0
+7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,Mujeres,0,2,7,2,0
+7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,Mujeres,1,26,122,20,7
+7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,Mujeres,0,96,782,28,32
+7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,Mujeres,0,1,1,0,0
+7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,Mujeres,0,0,1,0,0
+7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,Mujeres,0,0,0,0,0
+7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",Mujeres,0,0,1,0,0
+7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),Mujeres,4,186,1143,57,86
+7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,Mujeres,0,0,0,0,0
+7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,Mujeres,0,1,2,0,1
+7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,Mujeres,0,0,0,0,0
+7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,Mujeres,0,0,4,0,3
+7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,Mujeres,0,0,0,0,0
+7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",Mujeres,0,0,1,0,0
+7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,Mujeres,1,0,0,0,0
+7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,Mujeres,1,22,146,9,28
+8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,Mujeres,0,6,67,2,4
+9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,Mujeres,0,0,0,0,0
+9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,Mujeres,0,0,3,3,0
+9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,Mujeres,0,2,10,0,0
+10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",Mujeres,0,6,31,4,2
+10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,Mujeres,0,3,11,1,0
+10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,Mujeres,0,2,6,1,0
+10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,Mujeres,0,0,0,0,0
+10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",Mujeres,0,0,0,0,0
+10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,Mujeres,0,1,1,0,2
+10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",Mujeres,0,0,0,0,2
+10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,Mujeres,0,3,8,1,1
+10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,Mujeres,0,15,123,17,21
+11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,Mujeres,0,1,3,0,0
+11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",Mujeres,0,0,2,1,0
+11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,Mujeres,0,1,4,0,0
+11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,Mujeres,0,0,1,0,0
+11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,Mujeres,0,1,20,0,2
+12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,Mujeres,0,0,20,6,3
+12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,Mujeres,0,8,210,151,15
+12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,Mujeres,0,13,197,28,10
+12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,Mujeres,0,0,4,5,0
+12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,Mujeres,0,9,140,113,17
+12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,Mujeres,0,1,3,1,0
+12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,Mujeres,0,0,10,7,1
+12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,Mujeres,0,0,1,0,0
+14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,Mujeres,0,1,11,6,1
+14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,Mujeres,0,0,0,0,0
+14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,Mujeres,0,0,5,1,0
+14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,Mujeres,0,0,8,3,1
+14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,Mujeres,0,1,18,10,2
+14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,Mujeres,0,0,25,9,3
+14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,Mujeres,0,5,88,65,20
+14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,Mujeres,0,0,2,0,0
+14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,Mujeres,0,4,72,28,18
+14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,Mujeres,1,43,820,513,79
+14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,Mujeres,0,0,0,0,0
+14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,Mujeres,0,2,8,6,0
+14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,Mujeres,0,8,79,27,11
+14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,Mujeres,0,0,0,0,0
+14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,Mujeres,0,0,0,0,0
+14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,Mujeres,0,0,0,0,0
+14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,Mujeres,0,0,0,0,0
+14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,Mujeres,0,0,0,0,0
+14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,Mujeres,0,0,5,4,0
+12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,Mujeres,0,1,2,0,0
+12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,Mujeres,0,0,4,0,0
+12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,Mujeres,0,0,1,0,0
+12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,Mujeres,0,0,9,0,1
+12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,Mujeres,0,1,1,0,0
+12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,Mujeres,2,66,466,20,12
+12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,Mujeres,0,0,11,0,0
+12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,Mujeres,1,6,35,2,0
+12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,Mujeres,0,2,47,3,3
+12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,Mujeres,0,0,1,0,0
+12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,Mujeres,1,39,254,22,36
+12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,Mujeres,0,42,135,5,24
+12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",Mujeres,0,0,0,0,0
+12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",Mujeres,0,0,0,0,0
+12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,Mujeres,0,0,0,0,0
+12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,Mujeres,0,0,5,2,0
+12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,Mujeres,0,0,0,1,0
+12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,Mujeres,0,0,0,0,0
+12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,Mujeres,0,0,0,0,0
+12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,Mujeres,0,0,0,0,0
+12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,Mujeres,0,1,1,0,0
+12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,Mujeres,0,2,0,0,0
+12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,Mujeres,0,1,1,0,0
+12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,Mujeres,0,0,0,0,0
+12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,Mujeres,0,0,0,0,0
+12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,Mujeres,0,0,3,2,0
+12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,Mujeres,0,203,433,44,45
+12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,Mujeres,0,0,0,2,0
+12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,Mujeres,0,0,4,0,2
+12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,Mujeres,0,0,1,0,0
+12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,Mujeres,0,0,0,0,0
+12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,Mujeres,0,0,4,0,0
+12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,Mujeres,0,1,0,0,0
+12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",Mujeres,0,0,0,0,0
+12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",Mujeres,0,0,0,0,0
+12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,Mujeres,0,0,3,0,0
+12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,Mujeres,0,0,1,0,0
+12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,Mujeres,0,10,15,4,3
+13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,Mujeres,0,0,0,0,0
+13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,Mujeres,0,0,6,1,0
+15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,Mujeres,0,0,0,0,0
+16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,Mujeres,0,0,1,0,0
+22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,Mujeres,0,0,0,0,0
+22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,Mujeres,0,0,0,0,0
+23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,Mujeres,0,0,0,0,0
+23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Mujeres,0,0,0,0,0
+23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,Mujeres,0,0,2,1,0
+20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,Mujeres,0,0,9,1,0
+20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,Mujeres,0,0,1,1,0
+21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,Mujeres,0,0,0,0,0
+21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,Mujeres,0,0,0,0,0
+22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),Mujeres,0,5,64,13,7
+22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,Mujeres,0,0,1,0,0
+22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,Mujeres,0,0,1,0,0
+13021,FALTAS,Ofensas al pudor,Mujeres,0,2,2,1,0
+13023,FALTAS,Alterar el orden público,Mujeres,0,0,1,0,0
+13025,FALTAS,Dejar animales sueltos,Mujeres,0,0,0,0,0
+13026,FALTAS,Arrojamiento de piedras u otros objetos,Mujeres,1,1,1,0,1
+13027,FALTAS,Daño (falta),Mujeres,0,0,2,0,0
+13028,FALTAS,Hurto (falta),Mujeres,10,1159,6783,1034,540
+13030,FALTAS,Amenaza con arma (falta),Mujeres,1,51,157,17,21
+13031,FALTAS,Falta de respeto a la autoridad pública,Mujeres,0,6,51,9,1
+13033,FALTAS,Riña pública,Mujeres,1,253,2039,333,186
+13035,FALTAS,Desórdenes en espectáculos públicos,Mujeres,0,1,1,0,0
+13052,FALTAS,Ocultación de identidad en control investigativo,Mujeres,0,8,50,4,7
+13053,FALTAS,Ocultación de identidad en control preventivo,Mujeres,1,22,101,18,16
+13097,FALTAS,Otras faltas Código Penal,Mujeres,2,10,51,9,4
+13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,Mujeres,0,0,0,1,0
+13101,FALTAS,Transporte de desechos a vertederos clandestinos,Mujeres,0,0,0,0,0
+13103,FALTAS,Perro potencialmente peligroso no inscrito,Mujeres,0,0,2,0,0
+7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,Mujeres,0,26,207,35,10
+7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,Mujeres,0,2,37,5,1
+18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,Mujeres,0,0,6,2,0
