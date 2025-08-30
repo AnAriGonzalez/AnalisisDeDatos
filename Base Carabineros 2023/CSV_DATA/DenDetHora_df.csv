@@ -1,0 +1,783 @@
+Código,Familia,Materia,Clasificacion,00:01-04:00,04:01-08:00,08:01-12:00,12:01-16:00,16:01-20:00,20:01-24:00
+101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,Detenciones,32,12,12,16,23,28
+202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,Detenciones,10,10,12,9,11,8
+203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,Detenciones,0,1,2,2,6,1
+204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,Detenciones,399,249,284,270,297,383
+205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",Detenciones,0,0,0,1,0,0
+207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",Detenciones,2,2,16,11,6,2
+210,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Allanamientos irregulares,Detenciones,0,0,0,0,0,0
+216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",Detenciones,2,1,8,14,11,2
+218,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Empleado público que expropie bienes o perturbe posesión de otro,Detenciones,0,0,0,0,0,0
+221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,Detenciones,0,0,0,2,5,0
+224,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas por particulares agentes del Estado,Detenciones,0,0,0,0,0,0
+225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,Detenciones,0,1,0,0,0,0
+229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",Detenciones,0,0,1,0,0,0
+230,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Tortura con cuasidelito,Detenciones,0,0,0,0,0,0
+231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,Detenciones,1,0,1,3,4,8
+233,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apremios ilegítimos con violación, abuso sexual agravado y otros",Detenciones,0,0,0,0,0,0
+235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,Detenciones,0,0,1,0,0,0
+236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,Detenciones,1,1,3,1,1,1
+237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,Detenciones,8,5,7,6,5,7
+248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,Detenciones,0,0,0,0,0,1
+299,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Otros delitos que afectan los derechos garantidos por la Constitución,Detenciones,0,0,0,0,0,0
+301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,Detenciones,1,0,1,4,2,0
+302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,Detenciones,82,34,700,471,715,175
+303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,Detenciones,2,0,14,12,9,1
+306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",Detenciones,1,1,2,0,2,0
+308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,Detenciones,1,0,1,1,0,1
+309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,Detenciones,96,30,139,130,288,89
+310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,Detenciones,4,0,4,1,3,1
+311,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de licencias médicas o pensiones,Detenciones,0,0,0,0,0,0
+312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",Detenciones,0,0,3,2,1,0
+399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",Detenciones,0,0,0,2,0,0
+404,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación judicial y administrativa,Detenciones,0,0,0,0,0,0
+405,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación del abogado y procurador,Detenciones,0,0,0,0,0,0
+406,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Malversación de caudales públicos,Detenciones,0,0,0,0,0,0
+410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,Detenciones,1,0,1,1,4,1
+411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,Detenciones,9,8,31,24,29,22
+416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,Detenciones,0,0,1,0,0,0
+419,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Fraudes al Fisco y organismos del Estado,Detenciones,0,0,0,0,0,0
+420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,Detenciones,1,0,0,0,1,1
+421,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros abusos contra particulares,Detenciones,0,0,0,0,0,0
+423,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,"Soborno, artículo 250. Persona jurídica",Detenciones,0,0,0,0,0,0
+499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,Detenciones,0,0,1,0,0,2
+501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,Detenciones,86,50,169,118,153,130
+502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,Detenciones,2,4,1,4,1,3
+503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,Detenciones,1,0,13,30,41,13
+505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",Detenciones,0,0,2,30,5,1
+508,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Propagación de enfermedades que afecten a la salud animal o vegetal; elementos químicos, bacteriológicos, radioactivos",Detenciones,0,0,0,0,0,0
+509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,Detenciones,8,4,42,40,42,16
+510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,Detenciones,0,2,1,0,0,0
+512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,Detenciones,0,0,1,1,3,2
+514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,Detenciones,0,0,0,0,0,1
+515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,Detenciones,82,39,97,124,196,80
+516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,Detenciones,37,18,81,92,139,38
+518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,Detenciones,419,105,642,567,1161,532
+519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",Detenciones,0,0,5,3,0,0
+522,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Maltrato de obra a fiscales o defensores en el desempeño de sus funciones, incluye castración y mutilación",Detenciones,0,0,0,0,0,0
+523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,Detenciones,0,0,1,0,0,0
+524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,Detenciones,1889,1154,3497,3730,4000,3324
+525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,Detenciones,536,342,749,933,1009,954
+526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),Detenciones,0,0,19,9,2,0
+527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),Detenciones,0,0,25,15,1,0
+530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,Detenciones,8,7,10,12,8,7
+531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,Detenciones,3,1,3,7,11,10
+532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,Detenciones,0,0,5,2,0,6
+533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,Detenciones,5,0,10,5,3,5
+534,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Diseminar gérmenes para causar enfermedad,Detenciones,0,0,0,0,0,0
+535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,Detenciones,0,0,1,1,0,0
+536,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Propagar contagio a sabiendas,Detenciones,0,0,0,0,0,0
+538,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de cadáver,Detenciones,0,0,0,0,0,0
+539,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de sepultura,Detenciones,0,0,0,0,0,0
+540,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Uso indebido de facultades asociadas a las técnicas especiales de investigación,Detenciones,0,0,0,0,0,0
+599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,Detenciones,3,0,8,3,5,3
+602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,Detenciones,1,1,1,1,0,1
+603,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de cónyuge o de parientes enfermos,Detenciones,0,0,0,0,0,0
+604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,Detenciones,1,0,0,0,0,0
+605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,Detenciones,0,0,0,0,0,1
+608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,Detenciones,1,0,0,1,3,4
+609,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Incesto,Detenciones,0,0,0,0,0,0
+610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,Detenciones,0,0,1,0,0,0
+615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,Detenciones,0,0,8,11,13,2
+619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,Detenciones,4,5,4,9,17,9
+620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,Detenciones,5,6,3,10,18,11
+621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,Detenciones,5,7,7,8,17,11
+623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,Detenciones,22,22,20,47,83,54
+624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,Detenciones,1,0,0,3,1,0
+625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,Detenciones,1,0,1,1,0,0
+629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Detenciones,0,1,0,0,0,0
+630,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Comercialización material pornográfico elaborado usando menores de 18 años,Detenciones,0,0,0,0,0,0
+631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Detenciones,1,0,1,0,2,1
+632,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Obtención de servicios sexuales de menores,Detenciones,0,0,0,0,0,0
+633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),Detenciones,1,1,0,1,0,1
+634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,Detenciones,4,2,3,6,3,3
+635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),Detenciones,13,16,10,7,14,6
+636,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto cometido por facultativo por causales no reguladas,Detenciones,0,0,0,0,0,0
+637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,Detenciones,43,46,29,33,31,33
+638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",Detenciones,1,0,2,9,5,2
+639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,Detenciones,100,73,106,111,157,81
+640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,Detenciones,3,4,17,39,49,30
+647,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Transmisión de imágenes de connotación sexual de menores de 18 años,Detenciones,0,0,0,0,0,0
+649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Detenciones,0,0,0,0,0,1
+650,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Detenciones,0,0,0,0,0,0
+699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",Detenciones,0,0,2,2,4,0
+701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,Detenciones,4,0,3,3,1,3
+702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,Detenciones,23,13,9,17,21,26
+703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,Detenciones,3,4,2,2,4,4
+705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,Detenciones,10,2,1,3,3,6
+706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,Detenciones,0,0,1,0,1,0
+707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,Detenciones,0,0,1,1,0,0
+709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,Detenciones,248,138,273,314,369,320
+710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,Detenciones,485,322,480,571,659,669
+715,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Calumnia,Detenciones,0,0,0,0,0,0
+716,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Injuria,Detenciones,0,0,0,0,0,0
+717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,Detenciones,9,9,4,8,15,13
+720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,Detenciones,8,2,2,2,4,5
+721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,Detenciones,5,3,6,5,5,0
+722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,Detenciones,0,0,1,0,0,0
+723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,Detenciones,1,0,0,0,1,0
+724,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas menores de 18 años,Detenciones,0,0,0,0,0,0
+725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,Detenciones,1,0,0,0,0,0
+727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,Detenciones,0,0,0,1,0,0
+763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,Detenciones,9,9,27,22,36,17
+764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,Detenciones,0,0,2,1,0,0
+765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,Detenciones,1,0,1,0,0,5
+766,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio no íntimo,Detenciones,0,0,0,0,0,0
+767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,Detenciones,0,0,0,0,0,1
+768,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,"Suicidio femicida, inducción al suicidio y/o al suicidio femicida",Detenciones,0,0,0,0,0,0
+769,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Conspiración para cometer homicidio calificado por premio o promesa remuneratoria,Detenciones,0,0,0,0,0,0
+799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,Detenciones,73,52,88,79,79,79
+13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,Detenciones,4805,2818,5540,6221,7002,6736
+802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,Detenciones,358,312,303,337,384,444
+803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,Detenciones,379,264,240,295,341,408
+804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,Detenciones,125,157,340,542,474,269
+806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,Detenciones,0,0,0,2,1,1
+808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,Detenciones,475,286,333,392,393,341
+809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,Detenciones,468,386,332,313,300,332
+810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,Detenciones,1121,868,509,326,353,498
+811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,Detenciones,12,8,25,26,22,8
+812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,Detenciones,388,314,735,830,908,420
+814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,Detenciones,0,0,1,0,0,0
+816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,Detenciones,30,11,86,242,179,74
+817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,Detenciones,0,0,4,6,24,2
+821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,Detenciones,9,6,37,61,46,17
+824,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abuso de firma en blanco,Detenciones,0,0,0,0,0,0
+825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,Detenciones,81,60,47,37,83,42
+826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,Detenciones,23,32,64,117,130,78
+827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,Detenciones,2,0,1,1,0,2
+828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,Detenciones,0,2,1,4,0,0
+829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",Detenciones,0,0,0,0,1,0
+831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,Detenciones,75,35,33,35,50,51
+832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,Detenciones,297,92,229,264,446,298
+833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,Detenciones,0,0,2,3,8,2
+834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,Detenciones,8,3,22,14,13,5
+836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,Detenciones,1,0,4,0,1,2
+838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,Detenciones,4,0,2,1,0,2
+839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,Detenciones,0,0,0,0,1,0
+840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,Detenciones,600,524,811,845,931,699
+841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,Detenciones,35,18,28,35,35,35
+846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,Detenciones,20,20,46,75,74,29
+847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,Detenciones,159,218,680,1161,1110,296
+848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,Detenciones,199,236,947,1880,1797,448
+849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,Detenciones,10,2,4,1,3,1
+851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,Detenciones,0,0,4,5,5,1
+853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,Detenciones,3,3,24,9,8,7
+854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,Detenciones,7,6,14,17,17,8
+855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,Detenciones,27,20,19,53,54,27
+856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,Detenciones,32,18,97,109,110,50
+858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,Detenciones,0,1,0,1,0,1
+861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,Detenciones,1,0,1,0,0,0
+862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,Detenciones,1,1,2,2,3,3
+863,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Administración desleal de persona natural,Detenciones,0,0,0,0,0,0
+864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,Detenciones,0,0,0,1,1,0
+866,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida cometido por persona jurídica,Detenciones,0,0,0,0,0,0
+867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",Detenciones,64,27,22,27,54,78
+868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,Detenciones,0,0,0,1,0,0
+869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,Detenciones,764,322,1230,1430,1826,838
+870,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con ocasión de calamidad o alteración al orden público,Detenciones,0,0,0,0,0,0
+871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,Detenciones,0,0,0,0,1,0
+872,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Saqueo,Detenciones,0,0,0,0,0,0
+877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,Detenciones,1,1,2,0,1,0
+891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,Detenciones,3,3,120,121,98,27
+892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,Detenciones,1,0,7,6,3,0
+896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,Detenciones,1,0,0,2,2,2
+899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,Detenciones,623,302,191,200,223,383
+901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,Detenciones,184,460,872,898,1200,628
+905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,Detenciones,13,27,23,23,37,44
+910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,Detenciones,0,0,0,0,1,0
+911,DE LOS CUASIDELITOS,Cuasidelito de homicidio cometido por profesionales de la salud,Detenciones,0,0,0,0,0,0
+999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,Detenciones,11,15,35,40,52,26
+1001,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia,Detenciones,0,0,0,0,0,0
+1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,Detenciones,1,2,1,0,0,2
+1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,Detenciones,1,1,5,2,3,1
+1014,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia infantil,Detenciones,0,0,0,0,0,0
+1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,Detenciones,3,0,6,7,4,3
+1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,Detenciones,436,102,575,579,878,493
+2002,DELITOS INFORMÁTICOS,Sabotaje informático,Detenciones,0,0,0,0,0,0
+2003,DELITOS INFORMÁTICOS,Espionaje informático,Detenciones,0,0,0,0,0,0
+2004,DELITOS INFORMÁTICOS,Ataque a la integridad de un sistema informático,Detenciones,0,0,0,0,0,0
+2005,DELITOS INFORMÁTICOS,Acceso ilícito,Detenciones,1,0,0,0,0,0
+2007,DELITOS INFORMÁTICOS,Ataque a la integridad de los datos informáticos,Detenciones,0,0,0,0,0,0
+2008,DELITOS INFORMÁTICOS,Falsificación informática,Detenciones,0,0,0,0,0,0
+2009,DELITOS INFORMÁTICOS,Receptación de datos informáticos,Detenciones,0,0,0,0,0,0
+2010,DELITOS INFORMÁTICOS,Otros fraudes informáticos,Detenciones,0,0,0,0,0,0
+3001,LEY GENERAL DE BANCOS,Obtención fraudulenta de créditos,Detenciones,0,0,0,0,0,0
+3002,LEY GENERAL DE BANCOS,"Alterar, ocultar o destruir balances, libros antecedentes sujeto a fiscalización",Detenciones,0,0,0,0,0,0
+3003,LEY GENERAL DE BANCOS,Invasión del giro bancario,Detenciones,0,0,0,0,0,0
+3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,Detenciones,0,0,1,0,0,0
+4003,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (falta de fondos). Acción penal privada,Detenciones,0,0,0,0,0,0
+4004,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (cuenta cerrada). Acción penal privada,Detenciones,0,0,0,0,0,0
+4005,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques. Acción penal pública,Detenciones,0,0,0,0,0,0
+4006,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Tacha falsa firma auténtica. Acción penal pública,Detenciones,0,0,0,0,0,0
+4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,Detenciones,0,0,0,3,1,1
+5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,Detenciones,0,0,0,2,1,0
+5002,DELITOS TRIBUTARIOS,Comercio clandestino,Detenciones,0,2,5,3,1,1
+5003,DELITOS TRIBUTARIOS,Declaración maliciosa de impuestos,Detenciones,0,0,0,0,0,0
+5099,DELITOS TRIBUTARIOS,Infracciones tributarias contempladas en otras leyes,Detenciones,0,0,0,0,0,0
+7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,Detenciones,0,3,4,6,8,4
+7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,Detenciones,12,10,191,161,140,31
+7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,Detenciones,382,147,459,483,675,463
+7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,Detenciones,0,1,0,1,1,0
+7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,Detenciones,1,0,0,5,1,0
+7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,Detenciones,0,0,0,1,0,0
+7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",Detenciones,0,0,1,0,0,0
+7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),Detenciones,607,180,965,1367,2515,890
+7042,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Facilitación de bienes al tráfico de drogas,Detenciones,0,0,0,0,0,0
+7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,Detenciones,0,0,0,0,0,2
+7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,Detenciones,2,0,2,9,17,5
+7045,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Omisión de denunciar por funcionario público,Detenciones,0,0,0,0,0,0
+7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,Detenciones,0,0,1,0,0,0
+7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,Detenciones,2,0,4,6,18,6
+7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,Detenciones,1,0,0,0,0,0
+7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",Detenciones,0,0,0,0,1,0
+7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,Detenciones,0,0,0,1,0,0
+7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,Detenciones,96,28,203,253,357,135
+8002,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Delitos marcarios,Detenciones,0,0,0,0,0,0
+8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,Detenciones,2,1,67,55,55,2
+9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,Detenciones,0,1,0,1,1,0
+9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,Detenciones,0,0,6,3,4,0
+9004,PROPIEDAD INTELECTUAL,Utilización sin autorización de obras de dominio ajeno por Ley de Propiedad Intelectual,Detenciones,0,0,0,0,0,0
+9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,Detenciones,5,3,15,12,7,5
+10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",Detenciones,78,28,46,70,90,60
+10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,Detenciones,38,14,36,37,51,37
+10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,Detenciones,13,8,18,12,21,11
+10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,Detenciones,0,0,0,0,1,0
+10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",Detenciones,0,1,0,0,0,0
+10014,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Entrega o puesta a disposición de armas a menores,Detenciones,0,0,0,0,0,0
+10015,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Colocación de bomba o artefacto,Detenciones,0,0,0,0,0,0
+10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,Detenciones,7,2,5,8,7,13
+10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",Detenciones,2,0,2,7,10,14
+10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,Detenciones,5,1,20,25,32,22
+10039,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Fabricación, elaboración, modificación, importación, exportación, adquisición de fuegos artificiales",Detenciones,0,0,0,0,0,0
+10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,Detenciones,302,114,292,287,477,322
+11001,LEY ORGÁNICA DE INVESTIGACIONES,Maltrato de obra personal de Investigaciones con o sin lesiones,Detenciones,0,0,0,0,0,0
+11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,Detenciones,1,3,3,3,5,3
+11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",Detenciones,2,0,6,6,11,1
+11099,LEY ORGÁNICA DE INVESTIGACIONES,Otros delitos Ley Orgánica de Investigaciones,Detenciones,0,0,0,0,0,0
+11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,Detenciones,0,0,5,2,2,0
+11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,Detenciones,0,0,5,2,1,0
+11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,Detenciones,0,0,12,21,6,0
+12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,Detenciones,17,7,163,117,139,27
+12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,Detenciones,109,269,398,411,554,386
+12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,Detenciones,225,251,2207,1383,2581,538
+12076,LEY DE TRÁNSITO,Instalación indebida de señales del tránsito o barreras,Detenciones,0,0,0,0,0,0
+12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,Detenciones,9,8,8,10,7,11
+12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,Detenciones,795,248,220,144,367,867
+12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,Detenciones,8,10,2,5,12,15
+12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,Detenciones,20,33,10,11,23,30
+12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,Detenciones,3,3,2,0,3,5
+14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,Detenciones,133,59,38,47,66,125
+14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,Detenciones,3,1,0,1,1,2
+14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,Detenciones,18,19,4,4,14,20
+14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,Detenciones,30,23,5,4,21,28
+14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,Detenciones,122,100,37,29,84,131
+14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,Detenciones,78,77,25,14,60,79
+14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,Detenciones,32,123,205,181,247,140
+14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,Detenciones,4,8,4,15,10,8
+14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,Detenciones,93,50,564,371,912,243
+14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,Detenciones,5802,2957,1562,1027,2735,5088
+14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,Detenciones,3,0,0,3,5,2
+14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,Detenciones,37,8,159,153,215,92
+14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,Detenciones,206,31,232,156,476,659
+14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,Detenciones,0,0,0,0,1,0
+14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,Detenciones,1,0,0,1,1,5
+14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,Detenciones,0,0,0,0,0,1
+14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,Detenciones,1,0,0,2,0,2
+14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,Detenciones,1,0,0,0,1,2
+14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,Detenciones,9,0,59,26,58,4
+12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,Detenciones,0,0,2,3,3,4
+12021,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción por contaminación,Detenciones,0,0,0,0,0,0
+12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,Detenciones,4,1,5,9,13,11
+12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,Detenciones,3,1,3,4,1,6
+12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,Detenciones,1,0,13,14,8,3
+12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,Detenciones,0,0,2,1,0,0
+12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,Detenciones,47,55,645,504,518,109
+12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,Detenciones,2,1,11,14,12,2
+12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,Detenciones,2,1,33,41,70,6
+12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,Detenciones,2,2,76,74,53,1
+12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,Detenciones,0,0,2,0,0,1
+12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,Detenciones,188,64,194,218,301,199
+12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,Detenciones,216,94,308,283,441,217
+12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",Detenciones,2,0,0,0,0,0
+12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",Detenciones,0,0,0,0,0,1
+12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,Detenciones,1,0,0,0,0,0
+12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,Detenciones,5,4,9,9,9,2
+12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,Detenciones,0,0,0,0,1,0
+12125,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsedades,Detenciones,0,0,0,0,0,0
+12131,INFRACCIÓN A OTROS TEXTOS LEGALES,Vigilancia privada no autorizada,Detenciones,0,0,0,0,0,0
+12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,Detenciones,0,0,0,2,0,2
+12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,Detenciones,0,0,0,1,0,0
+12134,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley 19.913,Detenciones,0,0,0,0,0,0
+12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,Detenciones,0,0,3,3,3,1
+12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,Detenciones,0,0,2,4,1,0
+12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,Detenciones,1,0,3,1,0,1
+12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,Detenciones,1,1,4,5,4,1
+12142,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en el otorgamiento prestaciones de salud,Detenciones,0,0,0,0,0,0
+12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,Detenciones,0,0,0,0,1,0
+12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,Detenciones,0,0,0,0,1,0
+12145,INFRACCIÓN A OTROS TEXTOS LEGALES,Loteos irregulares,Detenciones,0,0,0,0,0,0
+12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,Detenciones,0,0,26,5,2,0
+12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,Detenciones,1436,486,1039,1174,1460,1589
+12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,Detenciones,0,0,5,5,1,3
+12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,Detenciones,1,2,6,6,4,1
+12152,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la ley 17.322 sobre cotizaciones ,Detenciones,0,0,0,0,0,0
+12155,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en la utilización de gas como combustible en vehículos,Detenciones,0,0,0,0,0,0
+12156,INFRACCIÓN A OTROS TEXTOS LEGALES,"Acceso, divulgación y uso indebido de información genética con ocasión de tratamiento de ADN",Detenciones,0,0,0,0,0,0
+12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,Detenciones,0,0,0,2,1,1
+12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,Detenciones,0,0,0,1,0,0
+12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,Detenciones,2,2,45,17,20,2
+12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,Detenciones,0,1,3,0,3,0
+12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",Detenciones,0,0,0,0,2,0
+12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",Detenciones,0,0,0,1,3,1
+12181,INFRACCIÓN A OTROS TEXTOS LEGALES,Inutilización de dispositivo para monitoreo telemático,Detenciones,0,0,0,0,0,0
+12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,Detenciones,0,0,1,1,4,5
+12183,INFRACCIÓN A OTROS TEXTOS LEGALES,Apropiación de monumentos nacionales,Detenciones,0,0,0,0,0,0
+12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,Detenciones,1,0,0,0,0,0
+12189,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso malicioso de recetas médicas digitales,Detenciones,0,0,0,0,0,0
+12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,Detenciones,7,10,83,78,81,46
+13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,Detenciones,0,0,0,3,0,0
+13050,INFRACCIÓN A OTROS TEXTOS LEGALES,Lesiones a las personas o daño a la propiedad con motivo u ocasión de un espectáculo de fútbol profesional,Detenciones,0,0,0,0,0,0
+13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,Detenciones,0,0,5,27,23,10
+15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,Detenciones,0,0,0,0,2,0
+16400,INFRACCIÓN A OTROS TEXTOS LEGALES,Difusión indebida de entrevista videograbada,Detenciones,0,0,0,0,0,0
+16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,Detenciones,0,0,1,0,0,0
+22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,Detenciones,2,0,0,1,1,1
+22413,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de rótulos o certificados,Detenciones,0,0,0,0,0,0
+22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,Detenciones,0,0,1,0,0,0
+22800,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre el mal uso de aguas grises,Detenciones,0,0,0,0,0,0
+23100,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Protección al Consumidor,Detenciones,0,0,0,0,0,0
+23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,Detenciones,0,0,0,0,0,1
+23500,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley de Identidad de Género,Detenciones,0,0,0,0,0,0
+23750,INFRACCIÓN A OTROS TEXTOS LEGALES,Revelación del secreto del sistema de búsqueda de personas desaparecidas,Detenciones,0,0,0,0,0,0
+23775,INFRACCIÓN A OTROS TEXTOS LEGALES,"Sustracción, ruptura de redes, comercialización de  especies de cultivo",Detenciones,0,0,0,0,0,0
+23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Detenciones,0,0,0,0,1,2
+23786,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Detenciones,0,0,0,0,0,0
+23800,INFRACCIÓN A LEYES ESPECIALES COVID-19,Obtención fraudulenta beneficios Covid 19,Detenciones,0,0,0,0,0,0
+23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,Detenciones,0,0,10,2,3,0
+20002,CONDUCTAS TERRORISTAS,Apoderamiento o atentado al transporte público,Detenciones,0,0,0,0,0,0
+20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,Detenciones,2,3,8,6,10,5
+20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,Detenciones,2,0,1,2,2,3
+20099,CONDUCTAS TERRORISTAS,Otros Ley 18.314,Detenciones,0,0,0,0,0,0
+21001,LIBERTAD DE OPINIÓN E INFORMACIÓN,Injurias y calumnias por medios de comunicación social,Detenciones,0,0,0,0,0,0
+21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,Detenciones,0,0,0,0,1,0
+21003,LIBERTAD DE OPINIÓN E INFORMACIÓN,Divulgación de identidad de menores por medios de comunicación social,Detenciones,0,0,0,0,0,0
+21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,Detenciones,0,0,0,0,1,0
+22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),Detenciones,77,40,64,47,96,97
+22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,Detenciones,0,4,25,16,7,0
+22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,Detenciones,0,0,2,0,3,0
+13021,FALTAS,Ofensas al pudor,Detenciones,4,3,21,23,35,10
+13022,FALTAS,Disensiones domésticas,Detenciones,0,0,0,0,0,0
+13023,FALTAS,Alterar el orden público,Detenciones,1,0,1,1,0,0
+13025,FALTAS,Dejar animales sueltos,Detenciones,0,0,0,1,0,0
+13026,FALTAS,Arrojamiento de piedras u otros objetos,Detenciones,3,2,1,4,2,1
+13027,FALTAS,Daño (falta),Detenciones,3,1,1,1,4,0
+13028,FALTAS,Hurto (falta),Detenciones,72,108,3691,9141,9886,1748
+13030,FALTAS,Amenaza con arma (falta),Detenciones,216,91,278,313,395,336
+13031,FALTAS,Falta de respeto a la autoridad pública,Detenciones,28,12,115,109,138,29
+13033,FALTAS,Riña pública,Detenciones,264,165,588,735,844,493
+13035,FALTAS,Desórdenes en espectáculos públicos,Detenciones,0,0,5,0,5,4
+13037,FALTAS,Caza y pesca con violencia,Detenciones,0,0,0,0,0,0
+13038,FALTAS,Ganado que entra a predio ajeno causando daños,Detenciones,0,0,0,0,0,0
+13052,FALTAS,Ocultación de identidad en control investigativo,Detenciones,52,19,88,87,120,63
+13053,FALTAS,Ocultación de identidad en control preventivo,Detenciones,94,35,245,229,371,124
+13097,FALTAS,Otras faltas Código Penal,Detenciones,19,8,62,42,55,35
+13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,Detenciones,0,0,1,2,0,1
+13101,FALTAS,Transporte de desechos a vertederos clandestinos,Detenciones,0,0,1,0,0,0
+13103,FALTAS,Perro potencialmente peligroso no inscrito,Detenciones,0,0,0,2,1,0
+13104,FALTAS,"Arrojar basura o desechos en playas, parques nacionales u otros",Detenciones,0,0,0,0,0,0
+13106,FALTAS,No informar domicilio por delitos sexuales (NNA),Detenciones,0,0,0,0,0,0
+7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,Detenciones,210,35,471,622,984,295
+7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,Detenciones,23,6,72,78,61,27
+18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,Detenciones,12,1,0,2,0,4
+18002,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Otorgamiento de patentes de alcoholes,Detenciones,0,0,0,0,0,0
+101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento,Denuncias,11,13,37,35,30,18
+202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro,Denuncias,33,30,38,33,63,51
+203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores,Denuncias,7,1,13,20,24,4
+204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada,Denuncias,328,227,365,397,384,346
+205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia",Denuncias,0,0,1,0,2,0
+207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular",Denuncias,1,0,0,3,0,1
+210,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Allanamientos irregulares,Denuncias,0,0,0,1,1,0
+216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción",Denuncias,5,16,110,93,85,27
+218,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Empleado público que expropie bienes o perturbe posesión de otro,Denuncias,0,0,0,1,0,0
+221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones,Denuncias,2,6,11,7,13,9
+224,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas por particulares agentes del Estado,Denuncias,1,0,0,0,0,0
+225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos,Denuncias,0,0,0,0,2,1
+229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros",Denuncias,0,1,1,0,0,1
+230,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Tortura con cuasidelito,Denuncias,0,0,0,0,1,0
+231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos,Denuncias,9,6,8,11,14,4
+233,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apremios ilegítimos con violación, abuso sexual agravado y otros",Denuncias,0,0,2,0,0,0
+235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio,Denuncias,0,0,0,1,0,0
+236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación,Denuncias,4,6,8,7,5,19
+237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones,Denuncias,18,15,16,13,30,19
+248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.,Denuncias,1,0,2,2,1,0
+299,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Otros delitos que afectan los derechos garantidos por la Constitución,Denuncias,4,5,13,10,10,3
+301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros,Denuncias,1,1,6,11,7,4
+302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos,Denuncias,8,18,283,199,155,61
+303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados,Denuncias,3,5,25,27,20,5
+306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa",Denuncias,0,0,5,4,7,2
+308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión,Denuncias,0,0,2,1,0,0
+309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre,Denuncias,37,53,501,481,434,205
+310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones,Denuncias,0,0,5,0,1,0
+311,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de licencias médicas o pensiones,Denuncias,0,0,1,2,1,1
+312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso",Denuncias,0,1,2,5,1,0
+399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio",Denuncias,0,0,4,4,2,0
+404,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación judicial y administrativa,Denuncias,0,0,0,0,1,0
+405,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación del abogado y procurador,Denuncias,0,0,0,0,0,1
+406,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Malversación de caudales públicos,Denuncias,0,0,0,0,2,1
+410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público,Denuncias,1,0,4,3,0,3
+411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular,Denuncias,0,0,0,2,0,1
+416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias,Denuncias,0,0,2,2,4,1
+419,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Fraudes al Fisco y organismos del Estado,Denuncias,0,0,0,1,0,1
+420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares,Denuncias,3,0,0,2,6,4
+421,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros abusos contra particulares,Denuncias,3,0,2,6,6,6
+423,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,"Soborno, artículo 250. Persona jurídica",Denuncias,0,0,0,0,0,1
+499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos,Denuncias,3,13,24,20,16,12
+501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos,Denuncias,34,161,346,192,162,179
+502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación,Denuncias,1,0,3,3,4,1
+503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos,Denuncias,0,2,6,7,3,5
+505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda",Denuncias,6,1,9,13,25,4
+508,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Propagación de enfermedades que afecten a la salud animal o vegetal; elementos químicos, bacteriológicos, radioactivos",Denuncias,0,0,0,1,0,0
+509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal,Denuncias,69,126,552,501,541,259
+510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas,Denuncias,0,0,0,0,1,0
+512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos,Denuncias,2,1,4,6,7,6
+514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones,Denuncias,0,0,0,0,1,0
+515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad,Denuncias,33,19,51,49,42,45
+516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes,Denuncias,0,1,2,3,1,3
+518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante,Denuncias,2,1,11,20,5,1
+519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública",Denuncias,2,3,8,6,2,3
+522,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Maltrato de obra a fiscales o defensores en el desempeño de sus funciones, incluye castración y mutilación",Denuncias,0,0,0,0,0,1
+523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones,Denuncias,0,0,0,1,0,2
+524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades,Denuncias,8168,6093,22176,25353,24733,17780
+525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades,Denuncias,1153,831,2836,3668,3752,2881
+526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B),Denuncias,0,0,3,2,0,0
+527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317),Denuncias,0,0,1,2,0,0
+530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos,Denuncias,9,6,50,39,27,18
+531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos,Denuncias,2,0,11,10,8,3
+532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208,Denuncias,0,4,1,1,4,1
+533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208,Denuncias,0,1,1,0,2,4
+534,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Diseminar gérmenes para causar enfermedad,Denuncias,0,0,1,1,0,0
+535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad,Denuncias,0,0,2,2,2,0
+536,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Propagar contagio a sabiendas,Denuncias,0,1,1,0,1,0
+538,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de cadáver,Denuncias,0,0,0,1,0,0
+539,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de sepultura,Denuncias,0,0,0,1,2,1
+540,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Uso indebido de facultades asociadas a las técnicas especiales de investigación,Denuncias,0,0,0,1,0,1
+599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares,Denuncias,1,3,8,3,3,7
+602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños,Denuncias,3,1,3,7,7,4
+603,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de cónyuge o de parientes enfermos,Denuncias,3,6,40,31,26,9
+604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil,Denuncias,0,0,0,0,0,0
+605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar,Denuncias,0,1,4,6,7,5
+608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro,Denuncias,11,4,24,22,15,17
+609,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Incesto,Denuncias,1,1,0,2,1,1
+610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores,Denuncias,0,0,0,3,2,0
+615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres,Denuncias,1,2,7,9,9,2
+619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años,Denuncias,36,32,74,79,86,57
+620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años,Denuncias,51,33,212,222,238,136
+621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años,Denuncias,57,34,163,203,198,159
+623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años,Denuncias,145,144,815,928,846,592
+624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas,Denuncias,6,2,7,2,4,1
+625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento,Denuncias,5,4,2,3,5,3
+629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Denuncias,1,0,2,3,9,3
+630,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Comercialización material pornográfico elaborado usando menores de 18 años,Denuncias,1,0,0,0,0,1
+631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Denuncias,4,0,4,8,2,1
+632,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Obtención de servicios sexuales de menores,Denuncias,0,0,0,0,1,1
+633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales),Denuncias,4,3,4,8,4,6
+634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro,Denuncias,10,11,43,39,47,25
+635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación),Denuncias,109,63,89,80,103,117
+636,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto cometido por facultativo por causales no reguladas,Denuncias,0,0,1,0,0,1
+637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años,Denuncias,359,245,248,234,298,342
+638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas",Denuncias,3,5,21,24,23,10
+639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento,Denuncias,326,320,478,479,538,382
+640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público,Denuncias,35,83,223,277,259,126
+647,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Transmisión de imágenes de connotación sexual de menores de 18 años,Denuncias,1,0,2,3,2,2
+649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años,Denuncias,0,0,1,1,0,1
+650,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil,Denuncias,0,0,1,4,1,2
+699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual",Denuncias,34,31,76,78,114,79
+701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio,Denuncias,1,0,3,4,0,2
+702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio,Denuncias,101,67,33,43,76,145
+703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado,Denuncias,27,14,6,18,16,25
+705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea,Denuncias,7,3,1,0,4,15
+706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio,Denuncias,1,1,3,2,1,1
+707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio,Denuncias,0,0,0,1,0,0
+709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves,Denuncias,1644,940,903,1327,1733,2150
+710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves,Denuncias,1075,667,807,1162,1608,1555
+715,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Calumnia,Denuncias,0,0,5,3,2,2
+716,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Injuria,Denuncias,0,1,3,7,7,2
+717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas,Denuncias,32,25,13,18,30,40
+720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo,Denuncias,1,0,0,2,2,1
+721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes,Denuncias,0,0,0,0,0,0
+722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público,Denuncias,0,0,0,0,0,0
+723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual,Denuncias,0,1,1,1,1,0
+724,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas menores de 18 años,Denuncias,0,0,0,1,0,1
+725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas,Denuncias,0,0,0,0,0,0
+727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros,Denuncias,1,0,0,0,0,0
+763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables,Denuncias,3092,2605,9441,10636,10379,7186
+764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado,Denuncias,0,1,9,10,4,3
+765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables,Denuncias,7,9,48,62,44,20
+766,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio no íntimo,Denuncias,0,0,1,0,0,0
+767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones,Denuncias,0,0,0,0,1,1
+768,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,"Suicidio femicida, inducción al suicidio y/o al suicidio femicida",Denuncias,0,0,0,1,0,2
+769,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Conspiración para cometer homicidio calificado por premio o promesa remuneratoria,Denuncias,0,0,0,0,1,0
+799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas,Denuncias,2748,2079,5778,7234,6624,4764
+13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves,Denuncias,16520,11572,28693,33109,36287,31179
+802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación,Denuncias,6441,7451,5700,6574,6712,10501
+803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia,Denuncias,4082,3499,1976,2488,3267,5008
+804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa,Denuncias,1618,2824,5634,8159,7408,4703
+806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión,Denuncias,21,8,56,75,66,49
+808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación,Denuncias,5263,6630,11131,12328,12674,8783
+809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado,Denuncias,6331,6779,6757,5681,7286,6830
+810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado,Denuncias,8582,9764,9215,3726,4140,4787
+811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato,Denuncias,477,493,760,294,341,264
+812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación,Denuncias,8,7,17,24,19,12
+814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes,Denuncias,0,1,26,14,10,2
+816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares,Denuncias,1324,1084,8855,11747,9466,4742
+817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura,Denuncias,0,0,3,2,1,0
+821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo,Denuncias,66,55,183,246,251,150
+824,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abuso de firma en blanco,Denuncias,0,0,1,1,0,0
+825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454,Denuncias,1,1,0,0,2,2
+826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado,Denuncias,93,104,349,334,328,165
+827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio,Denuncias,10,4,4,1,3,14
+828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación,Denuncias,24,32,14,16,16,49
+829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas",Denuncias,1,0,0,0,1,0
+831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado,Denuncias,4258,4432,4056,4379,5247,5766
+832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo,Denuncias,2,0,1,4,3,4
+833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble,Denuncias,7,3,22,17,11,13
+834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas,Denuncias,18,38,272,204,123,50
+836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas,Denuncias,4,9,56,34,43,11
+838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones,Denuncias,106,104,73,86,92,81
+839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos,Denuncias,10,7,32,32,31,31
+840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples,Denuncias,9850,13347,24331,23715,25441,15506
+841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados,Denuncias,155,122,169,145,192,202
+846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM,Denuncias,409,467,1174,1449,1179,643
+847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM,Denuncias,2802,3841,9323,12914,10636,4581
+848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM,Denuncias,1635,2047,5927,9057,7052,2839
+849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones,Denuncias,103,81,97,45,32,50
+851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques,Denuncias,35,18,87,207,199,75
+853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público,Denuncias,8,16,67,39,28,12
+854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas,Denuncias,68,64,65,100,111,83
+855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación,Denuncias,1076,772,1008,1611,1639,1228
+856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida,Denuncias,196,302,1793,1546,1431,648
+858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos,Denuncias,1,0,0,2,0,0
+861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves,Denuncias,3,3,2,4,3,10
+862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves,Denuncias,16,31,21,22,19,35
+863,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Administración desleal de persona natural,Denuncias,0,0,0,0,1,0
+864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica,Denuncias,0,0,0,0,0,0
+866,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida cometido por persona jurídica,Denuncias,0,1,3,5,2,0
+867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación",Denuncias,2295,1244,641,844,1293,4012
+868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos,Denuncias,2,2,0,4,3,3
+869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados,Denuncias,19,6,26,38,37,23
+870,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con ocasión de calamidad o alteración al orden público,Denuncias,0,0,0,0,0,1
+871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público,Denuncias,0,0,1,1,0,0
+872,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Saqueo,Denuncias,0,0,0,3,3,1
+877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos,Denuncias,0,0,0,0,0,0
+891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera,Denuncias,6,25,192,178,102,15
+892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica,Denuncias,0,2,11,10,1,1
+896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera,Denuncias,0,0,1,1,0,0
+899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad,Denuncias,1803,1308,1116,1215,1515,2313
+901,DE LOS CUASIDELITOS,Cuasidelito de lesiones,Denuncias,600,2362,4121,4224,5209,2484
+905,DE LOS CUASIDELITOS,Cuasidelito de homicidio,Denuncias,11,10,4,5,11,12
+910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud,Denuncias,1,0,2,2,2,2
+911,DE LOS CUASIDELITOS,Cuasidelito de homicidio cometido por profesionales de la salud,Denuncias,0,1,3,2,0,3
+999,DE LOS CUASIDELITOS,Otros de los cuasidelitos,Denuncias,52,160,258,297,389,181
+1001,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia,Denuncias,2076,2233,5925,6660,7401,5331
+1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver,Denuncias,625,947,1911,1804,1646,1175
+1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo,Denuncias,3115,1930,5104,4306,4004,3390
+1014,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia infantil,Denuncias,308,378,765,1640,1932,1264
+1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas,Denuncias,75,64,248,227,180,128
+1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3,Denuncias,7061,5079,14872,15676,14627,10526
+2002,DELITOS INFORMÁTICOS,Sabotaje informático,Denuncias,1,1,8,16,20,9
+2003,DELITOS INFORMÁTICOS,Espionaje informático,Denuncias,2,0,4,4,4,3
+2004,DELITOS INFORMÁTICOS,Ataque a la integridad de un sistema informático,Denuncias,0,0,0,1,0,0
+2005,DELITOS INFORMÁTICOS,Acceso ilícito,Denuncias,0,0,1,4,2,0
+2007,DELITOS INFORMÁTICOS,Ataque a la integridad de los datos informáticos,Denuncias,0,0,1,3,1,2
+2008,DELITOS INFORMÁTICOS,Falsificación informática,Denuncias,0,0,1,0,0,1
+2009,DELITOS INFORMÁTICOS,Receptación de datos informáticos,Denuncias,0,0,1,0,0,0
+2010,DELITOS INFORMÁTICOS,Otros fraudes informáticos,Denuncias,1,5,28,32,23,9
+3001,LEY GENERAL DE BANCOS,Obtención fraudulenta de créditos,Denuncias,0,0,2,0,0,0
+3002,LEY GENERAL DE BANCOS,"Alterar, ocultar o destruir balances, libros antecedentes sujeto a fiscalización",Denuncias,0,0,1,1,0,0
+3003,LEY GENERAL DE BANCOS,Invasión del giro bancario,Denuncias,0,0,1,5,1,1
+3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos,Denuncias,2,6,22,19,16,12
+4003,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (falta de fondos). Acción penal privada,Denuncias,0,1,1,2,0,0
+4004,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (cuenta cerrada). Acción penal privada,Denuncias,0,0,2,0,0,0
+4005,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques. Acción penal pública,Denuncias,1,0,3,2,1,0
+4006,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Tacha falsa firma auténtica. Acción penal pública,Denuncias,0,0,1,1,2,0
+4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques,Denuncias,11,16,124,119,106,35
+5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario,Denuncias,0,0,0,0,0,0
+5002,DELITOS TRIBUTARIOS,Comercio clandestino,Denuncias,22,12,55,45,54,28
+5003,DELITOS TRIBUTARIOS,Declaración maliciosa de impuestos,Denuncias,0,0,0,0,1,0
+5099,DELITOS TRIBUTARIOS,Infracciones tributarias contempladas en otras leyes,Denuncias,1,0,0,0,0,0
+7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas,Denuncias,0,0,8,0,2,2
+7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes,Denuncias,3,1,54,32,22,1
+7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas,Denuncias,54,12,165,142,191,87
+7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas,Denuncias,0,0,0,1,0,0
+7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores,Denuncias,0,0,0,0,0,0
+7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas,Denuncias,0,0,0,1,1,1
+7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas",Denuncias,0,0,0,0,0,0
+7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades),Denuncias,8,2,33,46,29,13
+7042,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Facilitación de bienes al tráfico de drogas,Denuncias,0,0,0,1,0,0
+7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas,Denuncias,0,0,0,0,0,0
+7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales,Denuncias,0,0,0,1,0,0
+7045,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Omisión de denunciar por funcionario público,Denuncias,8,1,7,21,5,15
+7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar,Denuncias,0,1,1,0,0,1
+7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 ,Denuncias,0,0,0,0,0,0
+7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior,Denuncias,0,1,19,23,25,7
+7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras",Denuncias,0,0,0,1,2,0
+7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento,Denuncias,0,0,0,0,0,0
+7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000,Denuncias,13,10,210,140,90,69
+8002,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Delitos marcarios,Denuncias,0,1,0,0,0,0
+8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial,Denuncias,0,0,3,1,2,0
+9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual,Denuncias,0,0,0,0,0,0
+9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual,Denuncias,0,0,0,0,0,0
+9004,PROPIEDAD INTELECTUAL,Utilización sin autorización de obras de dominio ajeno por Ley de Propiedad Intelectual,Denuncias,0,0,0,0,0,1
+9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual,Denuncias,0,0,1,1,2,0
+10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control",Denuncias,4,0,29,11,12,3
+10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida,Denuncias,0,0,3,4,0,1
+10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas,Denuncias,0,0,4,2,1,2
+10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas,Denuncias,0,0,1,0,0,0
+10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear",Denuncias,0,0,0,0,0,0
+10014,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Entrega o puesta a disposición de armas a menores,Denuncias,0,0,0,1,0,0
+10015,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Colocación de bomba o artefacto,Denuncias,3,1,4,2,2,6
+10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública,Denuncias,276,72,85,147,172,406
+10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización",Denuncias,82,8,18,47,68,195
+10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales,Denuncias,0,0,3,4,0,2
+10039,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Fabricación, elaboración, modificación, importación, exportación, adquisición de fuegos artificiales",Denuncias,1,0,1,0,0,1
+10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas,Denuncias,123,111,2042,1313,861,214
+11001,LEY ORGÁNICA DE INVESTIGACIONES,Maltrato de obra personal de Investigaciones con o sin lesiones,Denuncias,0,0,1,0,0,0
+11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones,Denuncias,15,12,39,56,54,46
+11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones",Denuncias,2,2,44,32,21,11
+11099,LEY ORGÁNICA DE INVESTIGACIONES,Otros delitos Ley Orgánica de Investigaciones,Denuncias,0,0,1,0,0,0
+11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones,Denuncias,0,0,0,0,0,0
+11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones,Denuncias,0,0,3,1,2,0
+11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios,Denuncias,0,0,0,0,0,0
+12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones,Denuncias,1,1,16,4,4,5
+12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves,Denuncias,186,226,228,281,402,307
+12074,LEY DE TRÁNSITO,Conducción sin la licencia debida,Denuncias,21,6,50,55,65,28
+12076,LEY DE TRÁNSITO,Instalación indebida de señales del tránsito o barreras,Denuncias,0,0,0,3,1,0
+12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito,Denuncias,116,159,158,180,262,177
+12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves,Denuncias,96,35,34,21,69,234
+12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves,Denuncias,1,2,0,0,1,0
+12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas,Denuncias,1,1,0,0,1,2
+12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte,Denuncias,0,0,0,0,0,0
+14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia,Denuncias,1,0,1,1,2,3
+14005,LEY DE TRÁNSITO,Negativa a efectuarse examen,Denuncias,0,1,0,0,0,0
+14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte,Denuncias,1,1,0,0,0,1
+14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas,Denuncias,0,2,0,0,0,0
+14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves,Denuncias,0,1,0,1,0,2
+14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves,Denuncias,1,2,0,1,1,0
+14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado,Denuncias,156,439,782,734,929,425
+14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima,Denuncias,41,40,47,65,86,66
+14022,LEY DE TRÁNSITO,Ocultamiento de placa patente,Denuncias,6,1,11,6,6,4
+14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves,Denuncias,30,18,7,12,13,22
+14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante,Denuncias,4,5,7,12,10,16
+14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta,Denuncias,0,0,4,4,3,1
+14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito,Denuncias,50,60,183,172,159,105
+14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes,Denuncias,0,0,0,0,0,0
+14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves,Denuncias,1,0,0,1,2,4
+14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte ,Denuncias,0,0,0,0,0,0
+14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas,Denuncias,1,1,1,0,2,5
+14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas,Denuncias,0,1,0,1,0,2
+14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima,Denuncias,2,0,10,5,7,6
+12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos,Denuncias,0,0,4,0,0,0
+12021,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción por contaminación,Denuncias,0,0,1,1,0,0
+12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca,Denuncias,5,3,23,23,29,10
+12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal,Denuncias,0,0,5,6,7,2
+12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes,Denuncias,5,1,27,35,30,13
+12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central,Denuncias,0,0,3,2,3,2
+12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas,Denuncias,5,3,58,31,28,5
+12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas,Denuncias,0,0,11,15,3,3
+12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas,Denuncias,1,0,0,0,0,0
+12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas,Denuncias,0,0,15,14,8,0
+12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas,Denuncias,0,0,0,0,0,0
+12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros ,Denuncias,16,5,10,21,20,10
+12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros,Denuncias,7,5,11,9,11,11
+12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar",Denuncias,0,0,0,0,1,0
+12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado",Denuncias,0,0,1,0,0,0
+12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile,Denuncias,0,0,0,0,0,0
+12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar,Denuncias,7,26,39,27,51,17
+12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra,Denuncias,0,1,0,1,0,0
+12125,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsedades,Denuncias,0,2,0,2,1,2
+12131,INFRACCIÓN A OTROS TEXTOS LEGALES,Vigilancia privada no autorizada,Denuncias,12,1,392,178,84,24
+12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones,Denuncias,0,0,1,2,0,0
+12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural,Denuncias,0,0,0,0,0,0
+12134,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley 19.913,Denuncias,1,1,1,3,0,1
+12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales,Denuncias,0,0,1,0,2,1
+12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques,Denuncias,1,8,62,45,23,4
+12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas,Denuncias,36,6,18,12,5,29
+12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico,Denuncias,0,1,1,2,0,0
+12142,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en el otorgamiento prestaciones de salud,Denuncias,0,0,0,0,0,1
+12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas,Denuncias,0,0,1,1,0,0
+12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico,Denuncias,0,0,4,3,1,1
+12145,INFRACCIÓN A OTROS TEXTOS LEGALES,Loteos irregulares,Denuncias,0,0,1,0,0,0
+12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios,Denuncias,1,1,29,26,12,1
+12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato,Denuncias,720,623,1574,1821,1857,1541
+12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego,Denuncias,1,1,1,3,4,3
+12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago,Denuncias,629,765,6218,6197,4475,2071
+12152,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la ley 17.322 sobre cotizaciones ,Denuncias,0,0,0,1,0,0
+12155,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en la utilización de gas como combustible en vehículos,Denuncias,0,0,1,0,0,0
+12156,INFRACCIÓN A OTROS TEXTOS LEGALES,"Acceso, divulgación y uso indebido de información genética con ocasión de tratamiento de ADN",Denuncias,0,0,2,1,1,0
+12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN,Denuncias,0,0,0,0,0,0
+12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales,Denuncias,0,0,0,1,3,1
+12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias,Denuncias,0,0,0,0,0,2
+12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo,Denuncias,0,3,34,26,22,2
+12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado",Denuncias,0,0,0,1,0,0
+12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado",Denuncias,0,0,0,1,1,0
+12181,INFRACCIÓN A OTROS TEXTOS LEGALES,Inutilización de dispositivo para monitoreo telemático,Denuncias,0,0,0,0,1,0
+12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales,Denuncias,4,2,2,6,4,5
+12183,INFRACCIÓN A OTROS TEXTOS LEGALES,Apropiación de monumentos nacionales,Denuncias,1,0,0,0,0,0
+12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas,Denuncias,4,10,84,98,94,44
+12189,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso malicioso de recetas médicas digitales,Denuncias,0,0,1,0,0,0
+12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales,Denuncias,13667,1995,10863,14781,29754,19817
+13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios,Denuncias,0,0,15,4,28,0
+13050,INFRACCIÓN A OTROS TEXTOS LEGALES,Lesiones a las personas o daño a la propiedad con motivo u ocasión de un espectáculo de fútbol profesional,Denuncias,0,0,1,0,0,1
+13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios,Denuncias,0,1,66,133,316,97
+15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales,Denuncias,0,1,0,0,0,0
+16400,INFRACCIÓN A OTROS TEXTOS LEGALES,Difusión indebida de entrevista videograbada,Denuncias,1,0,0,0,0,0
+16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal,Denuncias,0,0,9,7,4,0
+22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos,Denuncias,0,0,0,1,0,0
+22413,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de rótulos o certificados,Denuncias,0,0,0,0,1,0
+22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento,Denuncias,0,0,0,0,0,0
+22800,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre el mal uso de aguas grises,Denuncias,1,0,1,0,1,4
+23100,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Protección al Consumidor,Denuncias,0,9,28,44,41,13
+23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local,Denuncias,0,0,1,2,1,1
+23500,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley de Identidad de Género,Denuncias,0,0,0,0,0,1
+23750,INFRACCIÓN A OTROS TEXTOS LEGALES,Revelación del secreto del sistema de búsqueda de personas desaparecidas,Denuncias,0,0,0,0,0,1
+23775,INFRACCIÓN A OTROS TEXTOS LEGALES,"Sustracción, ruptura de redes, comercialización de  especies de cultivo",Denuncias,0,0,1,0,0,0
+23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Denuncias,0,0,0,0,1,0
+23786,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública,Denuncias,0,0,1,0,0,1
+23800,INFRACCIÓN A LEYES ESPECIALES COVID-19,Obtención fraudulenta beneficios Covid 19,Denuncias,0,0,1,0,0,0
+23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral,Denuncias,1,5,10,5,4,1
+20002,CONDUCTAS TERRORISTAS,Apoderamiento o atentado al transporte público,Denuncias,0,0,1,0,1,0
+20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública,Denuncias,0,1,0,0,1,0
+20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario,Denuncias,49,29,18,13,24,39
+20099,CONDUCTAS TERRORISTAS,Otros Ley 18.314,Denuncias,0,1,2,0,0,1
+21001,LIBERTAD DE OPINIÓN E INFORMACIÓN,Injurias y calumnias por medios de comunicación social,Denuncias,3,7,37,36,23,24
+21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social,Denuncias,0,0,0,0,2,0
+21003,LIBERTAD DE OPINIÓN E INFORMACIÓN,Divulgación de identidad de menores por medios de comunicación social,Denuncias,0,1,1,1,0,2
+21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733,Denuncias,1,0,1,1,0,1
+22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar),Denuncias,407,308,817,800,894,875
+22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia,Denuncias,0,0,3,1,0,2
+22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica,Denuncias,0,0,0,0,0,0
+13021,FALTAS,Ofensas al pudor,Denuncias,4,12,24,23,26,15
+13022,FALTAS,Disensiones domésticas,Denuncias,8,16,59,55,77,37
+13023,FALTAS,Alterar el orden público,Denuncias,55,12,11,8,3,4
+13025,FALTAS,Dejar animales sueltos,Denuncias,21,31,189,115,165,71
+13026,FALTAS,Arrojamiento de piedras u otros objetos,Denuncias,5,0,11,7,16,10
+13027,FALTAS,Daño (falta),Denuncias,0,3,4,4,4,1
+13028,FALTAS,Hurto (falta),Denuncias,146,218,908,1269,1289,384
+13030,FALTAS,Amenaza con arma (falta),Denuncias,151,115,381,538,574,437
+13031,FALTAS,Falta de respeto a la autoridad pública,Denuncias,11,5,8,6,10,8
+13033,FALTAS,Riña pública,Denuncias,30,12,44,74,70,41
+13035,FALTAS,Desórdenes en espectáculos públicos,Denuncias,1,0,4,2,4,3
+13037,FALTAS,Caza y pesca con violencia,Denuncias,23,9,0,1,0,4
+13038,FALTAS,Ganado que entra a predio ajeno causando daños,Denuncias,4,9,19,14,11,7
+13052,FALTAS,Ocultación de identidad en control investigativo,Denuncias,0,0,0,0,0,1
+13053,FALTAS,Ocultación de identidad en control preventivo,Denuncias,1,0,1,0,2,0
+13097,FALTAS,Otras faltas Código Penal,Denuncias,10224,4999,14546,13988,18989,9648
+13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales,Denuncias,0,0,1,3,2,0
+13101,FALTAS,Transporte de desechos a vertederos clandestinos,Denuncias,0,0,3,1,3,0
+13103,FALTAS,Perro potencialmente peligroso no inscrito,Denuncias,1,5,34,34,44,16
+13104,FALTAS,"Arrojar basura o desechos en playas, parques nacionales u otros",Denuncias,3,5,70,54,58,9
+13106,FALTAS,No informar domicilio por delitos sexuales (NNA),Denuncias,6,29,49,17,31,24
+7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto,Denuncias,268,98,402,449,720,245
+7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados,Denuncias,10,4,87,68,28,21
+18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores,Denuncias,10,1,6,15,28,11
+18002,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Otorgamiento de patentes de alcoholes,Denuncias,22,2,22,39,71,43
