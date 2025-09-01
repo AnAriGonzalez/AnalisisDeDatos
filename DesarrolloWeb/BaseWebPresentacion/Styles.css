@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* acá estilos generales*/
+header{
+    background: rgb(213, 150, 174);
+    padding: 10px 50px;
+}
+.image-container {
+    display: flex;
+}
+.image-container img{
+    width: 100%;
+}
+/* Estilos de header*/
+header{
+    background: rgb(213, 150, 174);
+    padding: 10px 50px;
+}
+#logo {
+    width: 50px;
+}
+
+#logo img{
+    border-radius: 100;
+    border: 2px solid #fff; /* aquí seleccioné la imagen, pedí que sea circular,
+     y le di un borde sólido, blanco, de 2 pixeles de ancho */
+}
+#hero {
+    position:relative;
+}
+/* aquí el hero */
+#hero #gatito1 {
+    display: inline-block;
+    width: 100%;
+}
+#hero .informacion.contenedor {
+    position: absolute; /*despega el elemento y lo superpone por encima de la información*/
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    display: flex; /*pido que la imágen y el texto queden anineados de izquierda a derecha, al lado del otro*/
+    width: 100%;
+    color: #fff;
+    padding: 0 50px;
+
+}
+#hero .informacion.contenedor #foto {
+    width: 200px;
+}
+#hero .informacion.contenedor #foto img {
+    border-radius: 100%;
+}
+#hero .informacion.contenedor .informacion{
+    margin-left: 20px;
+    font-weight: bold;
+    width: calc(100% - 200px); /*con esta linea puedo lograr que mi imágen no se deforme cuando la página tenga un re-size*/
+}
+#hero .informacion.contenedor .informacion span {
+    display: inline; /* con este comando separo el texto del título y subtitulo*/
+    color: blanchedalmond;
+    margin-bottom: 70px;
+}
+/*Estilos del main*/
+main {
+    padding: 100px;
+}
+/*Estilos de iconos de redes sociales*/
+main .social-icons {
+    display: flex; /*pala alinear uno al lado de otro los iconos*/
+    justify-content: center; /*Sólo funciona cuando se tiene un display flex y permite editar la alineación del contenido*/
+    margin-top: 40px;
+    list-style: none; /*con esto evito que se vean puntos que corresponden a la lista de iconos que4 crée en html*/
+}
+
+main .social-icons li{
+    margin-left: 8px;
+}
+
+main .social-icons .social-icon {
+    display: flex;
+    justify-content: center; /*Se centra considerando los laterales*/
+    align-items: center; /*se centra en la pantalla considerando arriba y abajo*/
+    background: black;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+main .social-icons #LinkedIn {
+    background: #0077b0;
+}
+main .social-icons #Platzi {
+    background: #121f3d;
+}
+main .social-icons #GitHub {
+    background: #23272d;
+}

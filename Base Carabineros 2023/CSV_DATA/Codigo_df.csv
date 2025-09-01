@@ -1,0 +1,392 @@
+Código,Familia,Materia
+101,QUEBRANTAMIENTO DE SENTENCIA,Quebrantamiento
+202,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro
+203,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Sustracción de menores
+204,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Violación de morada
+205,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apertura, registro o interceptación de correspondencia"
+207,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Detención, destierro o arresto irregular"
+210,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Allanamientos irregulares
+216,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Usurpación de propiedad, descubrimiento o producción"
+218,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Empleado público que expropie bienes o perturbe posesión de otro
+221,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Delitos contra la vida y la privacidad de las conversaciones
+224,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas por particulares agentes del Estado
+225,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Torturas cometidas por funcionarios públicos
+229,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Tortura con violación, abuso sexual agravado u otros"
+230,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Tortura con cuasidelito
+231,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Apremios ilegítimos cometidos por empleados públicos
+233,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,"Apremios ilegítimos con violación, abuso sexual agravado y otros"
+235,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con homicidio
+236,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con violación
+237,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con lesiones
+248,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Secuestro con solicitud de rescate o exigencia o se prolongue por más de 24 hrs.
+299,CRÍMENES Y SIMPLES DELITOS QUE AFECTAN DERECHOS GARANTIDOS POR LA CONSTITUCIÓN,Otros delitos que afectan los derechos garantidos por la Constitución
+301,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de moneda y otros
+302,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos públicos
+303,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación o uso malicioso de documentos privados
+306,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falso testimonio, perjurio o denuncia calumniosa"
+308,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Ejercicio ilegal de la profesión
+309,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Usurpación de nombre
+310,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Fingimiento de cargos o profesiones
+311,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO",Falsificación de licencias médicas o pensiones
+312,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Falsificación de certificados por funcionarios públicos, privados y uso malicioso"
+399,"CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO","Otros delitos contra la fe pública, de las falsificaciones, del falso testimonio y del perjurio"
+404,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación judicial y administrativa
+405,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Prevaricación del abogado y procurador
+406,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Malversación de caudales públicos
+410,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho cometido por empleado público
+411,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Cohecho o soborno cometido por particular
+416,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Tráfico de influencias
+419,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Fraudes al Fisco y organismos del Estado
+420,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Abusos contra particulares
+421,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros abusos contra particulares
+423,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,"Soborno, artículo 250. Persona jurídica"
+499,CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS,Otros delitos cometidos por empleados públicos en el desempeño de sus cargos
+501,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Desórdenes públicos
+502,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Obstrucción a la investigación
+503,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Rotura de sellos
+505,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Lotería ilegal, casas de juego y préstamo sobre prenda"
+508,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Propagación de enfermedades que afecten a la salud animal o vegetal; elementos químicos, bacteriológicos, radioactivos"
+509,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Abandono o maltrato animal
+510,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Asociaciones ilícitas
+512,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Connivencia en la fuga y evasión culpable de detenidos
+514,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infracción normas inhumaciones y exhumaciones
+515,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Atentados y amenazas contra la autoridad
+516,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Oponerse a la acción de la autoridad pública o sus agentes
+518,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Porte de arma cortante o punzante
+519,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Falsa alarma de incendio, emergencia o calamidad pública"
+522,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,"Maltrato de obra a fiscales o defensores en el desempeño de sus funciones, incluye castración y mutilación"
+523,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenaza a fiscales o defensores en el desempeño de sus funciones
+524,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas simples contra personas y propiedades
+525,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas condicionales contra personas y propiedades
+526,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 A y 313 B)
+527,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Contra la salud pública (art 313 D al 315 y art 317)
+530,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Amenazas contra profesionales y funcionarios de salud y manipuladores de alimentos
+531,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lesiones contra profesional y funcionario de salud y manipuladores de alimentos
+532,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Interrumpir libre circulación Ley 21.208
+533,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Lanzar objetos a la vía pública con muerte o lesiones Ley 21.208
+534,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Diseminar gérmenes para causar enfermedad
+535,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Infringir normas higiénicas y de salubridad
+536,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Propagar contagio a sabiendas
+538,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de cadáver
+539,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Ultraje de sepultura
+540,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Uso indebido de facultades asociadas a las técnicas especiales de investigación
+599,CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICA COMETIDO POR PARTICULARES,Otros delitos contra el orden y la seguridad pública cometidos por particulares
+602,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de niños
+603,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abandono de cónyuge o de parientes enfermos
+604,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Usurpación de estado civil
+605,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Inducir a un menor a abandonar el hogar
+608,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Estupro
+609,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Incesto
+610,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Promover o facilitar prostitución de menores
+615,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Ultraje público a las buenas costumbres
+619,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de mayor de 14 años y menor de 18 años
+620,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual sin contacto corporal de menor 14 años
+621,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de menor de 14 años
+623,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual con contacto corporal de menor de 14 años
+624,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto consentido por causales no reguladas
+625,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto sin consentimiento
+629,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años
+630,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Comercialización material pornográfico elaborado usando menores de 18 años
+631,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil
+632,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Obtención de servicios sexuales de menores
+633,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual calificado (con introducción de objetos o uso de animales)
+634,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años y menor de 18 años con circunstancia de estupro
+635,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 (con circunstancias de violación)
+636,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Aborto cometido por facultativo por causales no reguladas
+637,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Violación de mayor de 14 años
+638,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Captación, grabación y difusión de registros audiovisuales de partes íntimas"
+639,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Abuso sexual de mayor de 14 años por sorpresa y/o sin consentimiento
+640,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Acoso sexual en lugares públicos o de libre acceso público
+647,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Transmisión de imágenes de connotación sexual de menores de 18 años
+649,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Producción material pornográfico utilizando menores de 18 años
+650,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL",Adquisición o almacenamiento material pornográfico infantil
+699,"CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS, MORALIDAD PÚBLICA Y LA INTEGRIDAD SEXUAL","Otros delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual"
+701,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Parricidio
+702,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio
+703,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio calificado
+705,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Homicidio en riña o pelea
+706,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Auxilio al suicidio
+707,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Infanticidio
+709,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves
+710,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones menos graves
+715,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Calumnia
+716,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Injuria
+717,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves gravísimas
+720,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio íntimo
+721,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes
+722,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tráfico de migrantes cometidos por funcionario público
+723,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para la explotación sexual
+724,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas menores de 18 años
+725,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Asociación ilícita para tráfico de migrantes y/o trata de personas
+727,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Trata de personas para trabajos forzados y otros
+763,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato corporal a menores o personas vulnerables
+764,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Maltrato cometido por persona con deber de cuidado
+765,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Tratos degradantes a personas vulnerables
+766,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Femicidio no íntimo
+767,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones graves y menos graves a miembros de bomberos en el ejercicio de sus funciones
+768,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,"Suicidio femicida, inducción al suicidio y/o al suicidio femicida"
+769,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Conspiración para cometer homicidio calificado por premio o promesa remuneratoria
+799,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Otros delitos contra las personas
+13001,CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS/2,Lesiones leves
+802,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con intimidación
+803,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violencia
+804,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo por sorpresa
+806,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Extorsión
+808,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en bienes nacionales de uso público o sitios no destinados a habitación
+809,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar habitado
+810,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo en lugar no habitado
+811,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abigeato
+812,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación
+814,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Destrucción o alteración de deslindes
+816,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Estafas y otras defraudaciones contra particulares
+817,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usura
+821,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de hallazgo
+824,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Abuso de firma en blanco
+825,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Infracción artículo 454
+826,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto agravado
+827,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con homicidio
+828,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con violación
+829,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo con castración, mutilación o lesiones graves gravísimas"
+831,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo motorizado
+832,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Portar elementos conocidamente destinados a cometer delito de robo
+833,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación violenta de inmueble
+834,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación u ocupación de inmueble no violenta sin daños a las cosas
+836,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Usurpación de aguas
+838,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con resultado de muerte y/o lesiones
+839,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros estragos
+840,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños simples
+841,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Daños calificados
+846,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor sobre 40 UTM
+847,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de 4 a 40 UTM
+848,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto simple por un valor de media a menos de 4 UTM
+849,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación de cables de tendido eléctrico o de comunicaciones
+851,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio de bosques
+853,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto de bienes pertenecientes a redes de suministro público
+854,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio con peligro para las personas
+855,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Incendio solo con daños o sin peligro de propagación
+856,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida
+858,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con fuerza de cajeros automáticos
+861,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con lesiones graves
+862,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con retención de víctimas o lesiones graves
+863,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Administración desleal de persona natural
+864,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación cometida por persona jurídica
+866,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Apropiación indebida cometido por persona jurídica
+867,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,"Robo de vehículo motorizado por sorpresa, violencia o intimidación"
+868,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo de vehículo utilizando elementos distractivos
+869,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Receptación de vehículos motorizados
+870,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Robo con ocasión de calamidad o alteración al orden público
+871,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Hurto con ocasión de calamidad o alteración al orden público
+872,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Saqueo
+877,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Porte de elementos para provocar incendio o estragos
+891,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera
+892,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Sustracción de madera. Persona jurídica
+896,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Posesión o tenencia ilegítima de madera
+899,CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD,Otros delitos contra la propiedad
+901,DE LOS CUASIDELITOS,Cuasidelito de lesiones
+905,DE LOS CUASIDELITOS,Cuasidelito de homicidio
+910,DE LOS CUASIDELITOS,Cuasidelito de lesiones cometido por profesionales de la salud
+911,DE LOS CUASIDELITOS,Cuasidelito de homicidio cometido por profesionales de la salud
+999,DE LOS CUASIDELITOS,Otros de los cuasidelitos
+1001,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia
+1002,HECHOS DE RELEVANCIA CRIMINAL,Muertes y hallazgo de cadáver
+1006,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de vehículo
+1014,HECHOS DE RELEVANCIA CRIMINAL,Presunta desgracia infantil
+1018,HECHOS DE RELEVANCIA CRIMINAL,Hallazgo de drogas
+1099,HECHOS DE RELEVANCIA CRIMINAL,Otros hechos que no constituyan delito/3
+2002,DELITOS INFORMÁTICOS,Sabotaje informático
+2003,DELITOS INFORMÁTICOS,Espionaje informático
+2004,DELITOS INFORMÁTICOS,Ataque a la integridad de un sistema informático
+2005,DELITOS INFORMÁTICOS,Acceso ilícito
+2007,DELITOS INFORMÁTICOS,Ataque a la integridad de los datos informáticos
+2008,DELITOS INFORMÁTICOS,Falsificación informática
+2009,DELITOS INFORMÁTICOS,Receptación de datos informáticos
+2010,DELITOS INFORMÁTICOS,Otros fraudes informáticos
+3001,LEY GENERAL DE BANCOS,Obtención fraudulenta de créditos
+3002,LEY GENERAL DE BANCOS,"Alterar, ocultar o destruir balances, libros antecedentes sujeto a fiscalización"
+3003,LEY GENERAL DE BANCOS,Invasión del giro bancario
+3099,LEY GENERAL DE BANCOS,Otros delitos Ley General de Bancos
+4003,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (falta de fondos). Acción penal privada
+4004,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques (cuenta cerrada). Acción penal privada
+4005,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Giro doloso de cheques. Acción penal pública
+4006,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Tacha falsa firma auténtica. Acción penal pública
+4099,LEY DE CUENTAS CORRIENTES BANCARIAS Y CHEQUES,Otros delitos Ley de Cuentas Corrientes Bancarias y Cheques
+5001,DELITOS TRIBUTARIOS,Delitos que contempla el Código Tributario
+5002,DELITOS TRIBUTARIOS,Comercio clandestino
+5003,DELITOS TRIBUTARIOS,Declaración maliciosa de impuestos
+5099,DELITOS TRIBUTARIOS,Infracciones tributarias contempladas en otras leyes
+7001,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Elaboración ilegal de drogas o sustancias sicotrópicas
+7006,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Cultivo/cosecha de especies vegetales productoras de estupefacientes
+7007,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico ilícito de drogas
+7014,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Asociaciones ilícitas Ley de drogas
+7031,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Producción y tráfico por desvío de precursores
+7032,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro indebido de drogas
+7033,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Prescripción médica abusiva de drogas, estupefacientes o sicotrópicas"
+7037,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Microtráfico (tráfico de pequeñas cantidades)
+7042,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Facilitación de bienes al tráfico de drogas
+7043,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tolerancia al tráfico o consumo de drogas
+7044,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Tráfico de especies vegetales
+7045,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Omisión de denunciar por funcionario público
+7046,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Delitos cometidos por personal militar y gente de mar
+7047,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Conspiración de Ley 20.000 
+7050,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Uso malicioso de identidad anterior
+7053,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,"Abandonar en lugar de fácil acceso plantas, semillas u otras"
+7054,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Suministro de estupefacientes sin consentimiento
+7099,TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Otros delitos de la Ley 20.000
+8002,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Delitos marcarios
+8003,PROPIEDAD Y PRIVILEGIOS INDUSTRIALES,Demás delitos contra Ley de Propiedad Industrial
+9002,PROPIEDAD INTELECTUAL,Falsificación de obras protegidas por Ley de Propiedad Intelectual
+9003,PROPIEDAD INTELECTUAL,Venta ilícita de obras protegidas por Ley de Propiedad Intelectual
+9004,PROPIEDAD INTELECTUAL,Utilización sin autorización de obras de dominio ajeno por Ley de Propiedad Intelectual
+9099,PROPIEDAD INTELECTUAL,Demás delitos contemplados en la Ley de Propiedad Intelectual
+10001,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión, tenencia o porte de armas sujetas a control"
+10008,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Porte de arma prohibida
+10009,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión o tenencia de armas prohibidas
+10010,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Tráfico de armas
+10013,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Posesión o tenencia de armas de guerra, química, biológica o nuclear"
+10014,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Entrega o puesta a disposición de armas a menores
+10015,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Colocación de bomba o artefacto
+10016,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Disparos injustificados en la vía pública
+10037,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Accionar fuegos artificiales, pirotécnicos o similares sin autorización"
+10038,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Posesión de fuegos artificiales
+10039,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,"Fabricación, elaboración, modificación, importación, exportación, adquisición de fuegos artificiales"
+10099,CONTROL DE ARMAS. LEY 17.798; LEY 21.250,Otros delitos de la Ley de Control de Armas
+11001,LEY ORGÁNICA DE INVESTIGACIONES,Maltrato de obra personal de Investigaciones con o sin lesiones
+11004,LEY ORGÁNICA DE INVESTIGACIONES,Amenazar simple o condicionalmente u ofender públicamente a personal de la Policía de Investigaciones
+11005,LEY ORGÁNICA DE INVESTIGACIONES,"Falsificación de placas, tarjetas, timbres y sellos de Investigaciones"
+11099,LEY ORGÁNICA DE INVESTIGACIONES,Otros delitos Ley Orgánica de Investigaciones
+11102,LEY ORGÁNICA DE GENDARMERÍA,Maltrato de obra a gendarme en el desempeño de sus funciones
+11103,LEY ORGÁNICA DE GENDARMERÍA,Amenaza a gendarme en el desempeño de sus funciones
+11104,LEY ORGÁNICA DE GENDARMERÍA,Ingreso ilegítimo de aparatos de comunicaciones y tecnológicos a centros penitenciarios
+12072,LEY DE TRÁNSITO,Falsificación de licencia de conducir y otras falsificaciones
+12073,LEY DE TRÁNSITO,Accidente con resultado de muerte o lesiones graves
+12074,LEY DE TRÁNSITO,Conducción sin la licencia debida
+12076,LEY DE TRÁNSITO,Instalación indebida de señales del tránsito o barreras
+12077,LEY DE TRÁNSITO,No dar cuenta de accidente de tránsito
+12078,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol con o sin daños o lesiones leves
+12079,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones menos graves
+12184,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando lesiones graves gravísimas
+12185,LEY DE TRÁNSITO,Conducción bajo la influencia del alcohol causando muerte
+14004,LEY DE TRÁNSITO,Conducción estado de ebriedad con suspensión de licencia
+14005,LEY DE TRÁNSITO,Negativa a efectuarse examen
+14006,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de muerte
+14007,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones graves gravísimas
+14008,LEY DE TRÁNSITO,Conducción estado de ebriedad con resultado de lesiones graves
+14009,LEY DE TRÁNSITO,Conducción estado ebriedad con resultado de lesiones menos graves
+14020,LEY DE TRÁNSITO,Cuasidelito vehículo motorizado
+14021,LEY DE TRÁNSITO,Marcharse del sitio del suceso sin prestar auxilio a la víctima
+14022,LEY DE TRÁNSITO,Ocultamiento de placa patente
+14052,LEY DE TRÁNSITO,Conducción estado de ebriedad con o sin daños o lesiones leves
+14056,LEY DE TRÁNSITO,Atentado a vehículo motorizado en circulación con objeto contundente u otro semejante
+14057,LEY DE TRÁNSITO,Conducir vehículo durante la vigencia de alguna sanción impuesta
+14060,LEY DE TRÁNSITO,Otros delitos contra la Ley de tránsito
+14066,LEY DE TRÁNSITO,Lesionar o amenazar a fiscalizador de transportes
+14087,LEY DE TRÁNSITO,Conducción en carreras no autorizadas con o sin daños o lesiones leves
+14089,LEY DE TRÁNSITO,Conducción en carreras no autorizadas causando lesiones gravísimas o la muerte 
+14090,LEY DE TRÁNSITO,Organizar carreras no autorizadas
+14091,LEY DE TRÁNSITO,Facilitar vehículos motorizados para la participación en carreras clandestinas
+14092,LEY DE TRÁNSITO,Sobrepasar en 60 km/h los límites fijados de velocidad máxima
+12010,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley Mataderos Clandestinos
+12021,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción por contaminación
+12022,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones Ley de Pesca
+12023,INFRACCIÓN A OTROS TEXTOS LEGALES,Pesca ilegal
+12031,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de billetes
+12032,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley del Banco Central
+12051,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando. Infracción a la Ordenanza de Aduanas
+12052,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraude aduanero. Infracción a la Ordenanza de Aduanas
+12053,INFRACCIÓN A OTROS TEXTOS LEGALES,Receptación aduanera. Infracción a la Ordenanza de Aduanas
+12054,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ordenanza de Aduanas
+12055,INFRACCIÓN A OTROS TEXTOS LEGALES,Contrabando de especies exóticas
+12081,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a carabineros 
+12082,INFRACCIÓN A OTROS TEXTOS LEGALES,Amenazas a carabineros
+12086,INFRACCIÓN A OTROS TEXTOS LEGALES,"Matar a carabinero en ejercicio de sus funciones, Código Justicia Militar"
+12087,INFRACCIÓN A OTROS TEXTOS LEGALES,"Traición, espionaje y demás delitos contra la soberanía y seguridad exterior del Estado"
+12088,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso de uniforme o insignias de Fuerzas Armadas o Carabineros de Chile
+12089,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones al Código Justicia Militar
+12123,INFRACCIÓN A OTROS TEXTOS LEGALES,Robo o hurto de material de guerra
+12125,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsedades
+12131,INFRACCIÓN A OTROS TEXTOS LEGALES,Vigilancia privada no autorizada
+12132,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción Ley General de Telecomunicaciones
+12133,INFRACCIÓN A OTROS TEXTOS LEGALES,Lavado de dinero persona natural
+12134,INFRACCIÓN A OTROS TEXTOS LEGALES,Otras infracciones a la Ley 19.913
+12136,INFRACCIÓN A OTROS TEXTOS LEGALES,Enseñanza no autorizada de artes marciales
+12137,INFRACCIÓN A OTROS TEXTOS LEGALES,Corte o destrucción de árboles o arbustos Ley de Bosques
+12138,INFRACCIÓN A OTROS TEXTOS LEGALES,Caza y comercialización de especies prohibidas
+12139,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones al Código Aeronáutico
+12142,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en el otorgamiento prestaciones de salud
+12143,INFRACCIÓN A OTROS TEXTOS LEGALES,Transporte o distribución de gas e instalaciones clandestinas
+12144,INFRACCIÓN A OTROS TEXTOS LEGALES,Interrupción de servicio eléctrico
+12145,INFRACCIÓN A OTROS TEXTOS LEGALES,Loteos irregulares
+12146,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción a la Ley Orgánica Constitucional sobre votaciones populares y escrutinios
+12149,INFRACCIÓN A OTROS TEXTOS LEGALES,Desacato
+12150,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso ilícito del fuego
+12151,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso fraudulento de tarjetas o medios de pago
+12152,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la ley 17.322 sobre cotizaciones 
+12155,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracción en la utilización de gas como combustible en vehículos
+12156,INFRACCIÓN A OTROS TEXTOS LEGALES,"Acceso, divulgación y uso indebido de información genética con ocasión de tratamiento de ADN"
+12157,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la justicia con ocasión de tratamiento de ADN
+12159,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contenidos en Leyes de Prenda Especiales
+12163,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos relativos al pago de pensiones alimenticias
+12170,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contra la Ley de Bosque Nativo
+12171,INFRACCIÓN A OTROS TEXTOS LEGALES,"Fabricación, acopio o comercialización de hilo curado"
+12172,INFRACCIÓN A OTROS TEXTOS LEGALES,"Uso, facilitación o transporte de hilo curado"
+12181,INFRACCIÓN A OTROS TEXTOS LEGALES,Inutilización de dispositivo para monitoreo telemático
+12182,INFRACCIÓN A OTROS TEXTOS LEGALES,Daños a monumentos nacionales
+12183,INFRACCIÓN A OTROS TEXTOS LEGALES,Apropiación de monumentos nacionales
+12187,INFRACCIÓN A OTROS TEXTOS LEGALES,Fraudes en transacciones electrónicas
+12189,INFRACCIÓN A OTROS TEXTOS LEGALES,Uso malicioso de recetas médicas digitales
+12999,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos contemplados en otros textos legales
+13049,INFRACCIÓN A OTROS TEXTOS LEGALES,Obstrucción a la investigación de delito o infracción de la Ley de violencia en los estadios
+13050,INFRACCIÓN A OTROS TEXTOS LEGALES,Lesiones a las personas o daño a la propiedad con motivo u ocasión de un espectáculo de fútbol profesional
+13051,INFRACCIÓN A OTROS TEXTOS LEGALES,Otros delitos sobre Ley sobre violencia en los estadios
+15007,INFRACCIÓN A OTROS TEXTOS LEGALES,Delitos de la Ley de seguridad interior del Estado contra el orden público y la normalidad de las actividades nacionales
+16400,INFRACCIÓN A OTROS TEXTOS LEGALES,Difusión indebida de entrevista videograbada
+16403,INFRACCIÓN A OTROS TEXTOS LEGALES,Asociación ilícita para ejercer el comercio ilegal
+22412,INFRACCIÓN A OTROS TEXTOS LEGALES,Tráfico de residuos peligrosos
+22413,INFRACCIÓN A OTROS TEXTOS LEGALES,Falsificación de rótulos o certificados
+22600,INFRACCIÓN A OTROS TEXTOS LEGALES,Desatender el llamado a reclutamiento
+22800,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre el mal uso de aguas grises
+23100,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Protección al Consumidor
+23300,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley sobre Juzgado de Policía Local
+23500,INFRACCIÓN A OTROS TEXTOS LEGALES,Infracciones a la Ley de Identidad de Género
+23750,INFRACCIÓN A OTROS TEXTOS LEGALES,Revelación del secreto del sistema de búsqueda de personas desaparecidas
+23775,INFRACCIÓN A OTROS TEXTOS LEGALES,"Sustracción, ruptura de redes, comercialización de  especies de cultivo"
+23785,INFRACCIÓN A OTROS TEXTOS LEGALES,Homicidio a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública
+23786,INFRACCIÓN A OTROS TEXTOS LEGALES,Maltrato de obra a funcionario de las fuerzas armadas en desempeño de funciones de resguardo de la seguridad pública
+23800,INFRACCIÓN A LEYES ESPECIALES COVID-19,Obtención fraudulenta beneficios Covid 19
+23900,SISTEMAS DE INSCRIPCIONES ELECTORALES Y SERVICIO ELECTORAL,Infracciones a la Ley orgánica constitucional sobre sistemas de inscripciones electorales y servicio electoral
+20002,CONDUCTAS TERRORISTAS,Apoderamiento o atentado al transporte público
+20003,CONDUCTAS TERRORISTAS,Atentado contra Jefe de Estado o autoridad pública
+20004,CONDUCTAS TERRORISTAS,Atentado explosivo o incendiario
+20099,CONDUCTAS TERRORISTAS,Otros Ley 18.314
+21001,LIBERTAD DE OPINIÓN E INFORMACIÓN,Injurias y calumnias por medios de comunicación social
+21002,LIBERTAD DE OPINIÓN E INFORMACIÓN,Ultraje público a las buenas costumbres por medios de comunicación social
+21003,LIBERTAD DE OPINIÓN E INFORMACIÓN,Divulgación de identidad de menores por medios de comunicación social
+21099,LIBERTAD DE OPINIÓN E INFORMACIÓN,Otras faltas y delitos de la Ley 19.733
+22100,VIOLENCIA INTRAFAMILIAR,Maltrato habitual (violencia intrafamiliar)
+22101,VIOLENCIA INTRAFAMILIAR,Incumplimiento reiterado de pago de pensión alimenticia
+22410,INFRACCIONES A LA LEY DE DEFENSA DE LA LIBRE COMPETENCIA,Ocultación o entrega de información falsa a Fiscalía Nacional Económica
+13021,FALTAS,Ofensas al pudor
+13022,FALTAS,Disensiones domésticas
+13023,FALTAS,Alterar el orden público
+13025,FALTAS,Dejar animales sueltos
+13026,FALTAS,Arrojamiento de piedras u otros objetos
+13027,FALTAS,Daño (falta)
+13028,FALTAS,Hurto (falta)
+13030,FALTAS,Amenaza con arma (falta)
+13031,FALTAS,Falta de respeto a la autoridad pública
+13033,FALTAS,Riña pública
+13035,FALTAS,Desórdenes en espectáculos públicos
+13037,FALTAS,Caza y pesca con violencia
+13038,FALTAS,Ganado que entra a predio ajeno causando daños
+13052,FALTAS,Ocultación de identidad en control investigativo
+13053,FALTAS,Ocultación de identidad en control preventivo
+13097,FALTAS,Otras faltas Código Penal
+13100,FALTAS,Impedir ejercicio de funciones a inspectores municipales
+13101,FALTAS,Transporte de desechos a vertederos clandestinos
+13103,FALTAS,Perro potencialmente peligroso no inscrito
+13104,FALTAS,"Arrojar basura o desechos en playas, parques nacionales u otros"
+13106,FALTAS,No informar domicilio por delitos sexuales (NNA)
+7038,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte en lugares públicos o privados con previo concierto
+7039,FALTAS TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS,Consumo o porte de drogas en lugares calificados
+18001,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Expendio de bebidas alcohólicas a menores
+18002,FALTAS SOBRE EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS,Otorgamiento de patentes de alcoholes

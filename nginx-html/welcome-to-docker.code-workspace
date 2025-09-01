@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../welcome-to-docker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
