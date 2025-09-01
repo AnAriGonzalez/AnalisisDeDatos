@@ -1,1 +1,0 @@
-#una manera de manejar los errores en los programas es estableciendo los posibles errores a través del comando "except"
