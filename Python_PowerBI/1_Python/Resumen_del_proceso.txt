@@ -1,0 +1,57 @@
+📘Proceso de limpieza y organización de tablas
+
+Este documento describe en detalle el proceso de limpieza, estandarización y preparación de datos realizado a partir de un archivo Excel con distintas tablas de información policial y social.
+El objetivo principal es dejar los datos listos para ser utilizados en un modelo de análisis dentro de Power BI, garantizando que la información sea confiable, clara y de fácil lectura.
+
+Cada tabla mantiene el mismo número de identificación que en el archivo original, con el fin de conservar la trazabilidad de los datos:
+
+1=Total de casos policiales: Denuncias y detenciones por año y región
+2= Denuncias y detenciones en flagrancia según región
+3= Denuncias y detenciones en flagrancia según mes del año
+4= Denuncias y detenciones en flagrancia según día de semana
+5= Denuncias y detenciones en flagrancia según segmento horario del día
+6= Victimas y consecuencias de delitos en Chile según región
+9= Detenidos clasificados por sexo según mes del año
+10= Detenidos clasificados por sexo según día de la semana
+13= Detenidos clasificados por sexo según nacionalidad
+15 =Detenidos clasificados por sexo según nivel de educación
+
+🔄 Flujo general de limpieza
+
+El proceso aplicado a todas las tablas sigue una misma estructura, pensada para estandarizar los datos y garantizar su coherencia:
+
+1. Importación de datos
+
+Se realizó la carga de cada tabla en Python utilizando la librería pandas, que facilita la manipulación de datos en estructuras tipo DataFrame.
+
+En esta etapa se identificó la estructura de cada tabla, detectando diferencias en la disposición de encabezados, nombres de columnas y celdas vacías.
+
+2. Reordenamiento y estandarización de la información
+
+El objetivo fue lograr que todas las tablas tuvieran un formato uniforme, legible y fácil de procesar en Power BI. Las acciones realizadas incluyen:
+
+Corrección de nombres de columnas: se normalizaron los títulos, eliminando caracteres innecesarios, errores tipográficos o inconsistencias de formato.
+
+Creación de nuevas columnas: cuando fue necesario, se generaron columnas adicionales para organizar mejor la información y evitar datos mezclados en un mismo campo.
+
+Eliminación de filas sobrantes: se retiraron encabezados repetidos, notas al pie y filas vacías que no aportaban valor.
+
+Relleno de información faltante: en los casos donde había valores vacíos, se completaron con información de contexto (ejemplo: nombre de región o categoría correspondiente).
+
+Eliminación de duplicados: se verificó que no existieran registros repetidos que pudieran distorsionar los análisis posteriores.
+
+3. Exportación final
+
+Una vez depurada cada tabla, los datos se exportaron en formato CSV.
+
+Este formato se eligió porque es ligero, ampliamente compatible y se integra fácilmente en herramientas de análisis como Power BI.
+
+🎯 Objetivo final
+
+Gracias a este proceso, se obtuvo un conjunto de datos:
+
+Limpios y libres de inconsistencias.
+
+Con un formato estandarizado entre todas las tablas.
+
+Listos para ser importados a Power BI, donde se construirán reportes interactivos que faciliten el análisis de tendencias, comparaciones entre regiones, distribución temporal de denuncias y detenciones, así como el perfil de los detenidos según diversas variables sociodemográficas.
