@@ -8,10 +8,10 @@ En esta carpeta encontrarás mis proyectos realizados para practicar mis habilid
 -  Ejercicios y paso a paso para realización de analisis de datos en lenguaje Python
 
 3- Python_PowerBI
--Limpieza de datos importados desde Excel
--Manejo de archivos csv en PowerBI
-
+-  Limpieza de datos importados desde Excel
+-  Manejo de archivos csv en PowerBI
+  
 4- SQL
--Ingreso de datos en SQL
--Consultas en SQL
--Transformaciones de tablas a travéz de consultas en SQL
+-  Ingreso de datos en SQL
+-  Consultas en SQL
+-  Transformaciones de tablas a travéz de consultas en SQL
